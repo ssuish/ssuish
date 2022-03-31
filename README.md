@@ -20,9 +20,7 @@ Basic Accounting
 - Prepare financial reports
 - Review internal control systems
 
-Other Skills
+Other Technical Skills
 - Grapics Design (Photoshop and Canva)
 - Digital Illustration (Mainly anime ocs and fanarts)
-- Licensed Driver
-- Warehousing Basics
 - Cooking (Chinese and Japanese dish)
