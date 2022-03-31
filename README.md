@@ -3,13 +3,10 @@ Just a student... nothing much
 
 ### Skills  
 C# .NET 6 / .NET Framework Development 
-- Console app
-- Windows Desktop app 
+- Console and Windows Desktop app 
 
 Web Development
-- HTML
-- CSS
-- JS
+- Basic HTML/CSS/JS
 
 Other IT Skills
 - Computer Troubleshooting
