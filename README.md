@@ -21,6 +21,6 @@ Basic Accounting
 - Review internal control systems
 
 Other Technical Skills and Hobbies
-- Grapics Design (Photoshop and Canva)
+- Graphics Design (Photoshop and Canva)
 - Digital Illustration (Mainly anime ocs and fanarts)
 - Cooking (Chinese and Japanese dish)
