@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**ss-mei/ss-mei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![FHIiNYIaUAgvBo1](https://user-images.githubusercontent.com/88411618/161058508-7ba2e756-b288-420c-a00f-74b19e4799fe.jpg)
+**Note:** I don't own this photo and it only used for presentation purposes only. Credits to the respective owners. Thank You!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
