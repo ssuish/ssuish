@@ -13,9 +13,9 @@ Web Development
 
 Other IT Skills
 - Computer Troubleshooting
+- Graphics Design (Photoshop and Canva)
 
 Other Technical Skills and Hobbies
-- Graphics Design (Photoshop and Canva)
 - Digital Illustration (Mainly anime ocs and fanarts)
 - Basic Accounting
 - Cooking (Chinese and Japanese dish)
