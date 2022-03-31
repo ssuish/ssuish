@@ -13,6 +13,9 @@ Web Development
 - CSS
 - JS
 
+Other IT Skills
+- Computer Troubleshooting
+
 Basic Accounting
 - Journalizing
 - Posting transactions
