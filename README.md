@@ -20,7 +20,7 @@ Basic Accounting
 - Prepare financial reports
 - Review internal control systems
 
-Other Technical Skills
+Other Technical Skills and Hobbies
 - Grapics Design (Photoshop and Canva)
 - Digital Illustration (Mainly anime ocs and fanarts)
 - Cooking (Chinese and Japanese dish)
