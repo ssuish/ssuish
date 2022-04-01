@@ -11,7 +11,7 @@ Just a student... nothing much
 Interested to learn web apps, mobile development, software security and AI.
 
 Programming languages and tech stacks I use
-![dotnet](https://user-images.githubusercontent.com/88411618/161352914-90ec7419-b020-40c4-a94e-455ad7ee1511.svg) 
+![dotnet](https://user-images.githubusercontent.com/88411618/161352914-90ec7419-b020-40c4-a94e-455ad7ee1511.svg | width=20) 
 ![csharp](https://user-images.githubusercontent.com/88411618/161352959-51c0736d-fe7f-4a78-9b4f-c6bd7ab8ed91.svg) 
 ![html5](https://user-images.githubusercontent.com/88411618/161352967-49b73334-5487-4f47-9bd8-c86f724aea11.svg) 
 ![css3](https://user-images.githubusercontent.com/88411618/161352976-c0d3247e-fe53-455b-8b60-f21d126f66a2.svg) 
