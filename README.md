@@ -9,10 +9,9 @@ Web Development
 - Basic HTML/CSS/JS
 
 Other IT Skills
-- Computer Troubleshooting
+- Computer Troubleshooting and Repair
 - Graphics Design (Photoshop and Canva)
 
 Other Technical Skills and Hobbies
-- Digital Illustration (Mainly anime ocs and fanarts)
+- Digital Illustration 
 - Basic Accounting
-- Cooking (Chinese and Japanese dish)
