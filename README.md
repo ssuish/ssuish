@@ -2,16 +2,14 @@
 Just a student... nothing much
 
 ### Skills  
-C# .NET 6 / .NET Framework Development 
-- Console and Windows Desktop app 
-
-Web Development
+**C# .NET 6 / .NET Framework Development**  
+- Console and Desktop GUI apps 
+**Web Development**  
 - Basic HTML/CSS/JS
-
-Other IT Skills
+**Others**  
 - Computer Troubleshooting and Repair
 - Graphics Design (Photoshop and Canva)
-
-Other Technical Skills and Hobbies
-- Digital Illustration 
+- Digital Illustration
 - Basic Accounting
+
+Interested to learn web apps, mobile development, software security and AI.
