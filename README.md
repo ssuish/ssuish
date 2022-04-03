@@ -2,7 +2,7 @@
 Just a student... nothing much
 
 ### Things I do 
-- :desktop_computer: Console and Desktop GUI apps.
+- :desktop_computer: Console and GUI apps.
 - :mag: Web development
 - :black_nib: Graphics and Page Design.
 - :paintbrush: Digital Illustration.
