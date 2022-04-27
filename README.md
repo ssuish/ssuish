@@ -8,7 +8,7 @@ Just a student... nothing much
 - :paintbrush: Digital Illustration.
 - :ledger: Accounting
 
-Interested to learn web and mobile development, software security and AI.
+Interested to learn data structs and algorithms, computing theory, AI, and programming in different languages.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuish&layout=compact)](https://github.com/ssuish/ssuish/edit/main/README.md)
 
