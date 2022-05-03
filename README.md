@@ -1,8 +1,6 @@
 # About Me  
 Just a student... nothing much
 
-### Programming Languages
-- :desktop_computer: C#, Python, Kotlin, SQL.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuish&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-Interested to learn data structs and algorithms, computing theory, AI, and programming in different languages.
-
+Interested to learn algorithms, computing theory, AI, game development and programming in different languages.
