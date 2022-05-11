@@ -6,4 +6,4 @@ Just a student... nothing much
 ### Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ssuish&repo=prog)](https://github.com/anuraghazra/github-readme-stats)
 
-Interested to learn algorithms, computing theory, AI, game development and programming in different languages.
+Interested to learn algorithms, AI/ML, game development and programming in different languages.
