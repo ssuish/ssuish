@@ -1,6 +1,6 @@
 # About Me  
-Just a student... nothing much
+-> A mediocre student dev.
+-> Looking for learning resources and special someone.
+-> I use c#, python, javascript, and c/c++.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuish&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-Interested to learn computing, AI/ML programming, gamedev and software engineering.   
+Interested to learn computing, AI/ML programming, and software engineering.   
