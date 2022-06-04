@@ -8,7 +8,7 @@
 Interested to learn computing, algorithms, web and software engineering.    
 
 2022 Milestone:  
--> Learn advanced python, js, c/c++ programming.  
+-> Learn advanced python and c/c# programming.  
 -> Learn in-depth concepts in data structures and algorithms.  
 -> Develop algorithms for applications.  
 -> Make a first portfolio.  
