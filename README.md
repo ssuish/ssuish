@@ -1,5 +1,5 @@
 # About Me  
--> A mediocre student. 
+-> A mediocre student.   
 -> Looking for good learning resources and financial support.  
 -> Programming languages used: C#, Python, and Javascript.  
 -> IDE/CE I use: Visual Studio, Visual Studio Code, Jupyter.  
