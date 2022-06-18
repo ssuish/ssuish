@@ -5,7 +5,7 @@
 -> IDE/CE I use: Visual Studio, Visual Studio Code, Jupyter.  
 -> C# is my main programming language.  
 
-Interested to learn computing, algorithms, web and software engineering.    
+Interested to learn computing, algorithms, gamedev and software engineering.    
 
 2022 Milestone:  
 -> Learn advanced python and c++/c# programming.  
