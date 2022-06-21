@@ -1,14 +1,14 @@
 # About Me  
 -> A mediocre student.   
 -> Looking for good learning resources and financial support.  
--> Programming languages used: C#, Python, and Javascript.  
+-> Programming languages used: C, C# and Python.  
 -> IDE/CE I use: Visual Studio, Visual Studio Code, Jupyter.  
 -> C# is my main programming language.  
 
 Interested to learn computing, algorithms, gamedev and software engineering.    
 
 2022 Milestone:  
--> Learn advanced python and c++/c# programming.  
+-> Learn advanced python and c/c# programming.  
 -> Learn in-depth concepts in data structures and algorithms.  
 -> Develop algorithms for applications.  
 -> Make a first portfolio.  
