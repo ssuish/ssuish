@@ -8,11 +8,10 @@
 Interested to learn computing, algorithms, gamedev and software engineering.    
 
 2022 Milestone:  
--> Learn advanced python and c/c# programming.  
--> Learn in-depth concepts in data structures and algorithms.  
--> Develop algorithms for applications.  
+-> Learn advanced python and c programming.  
+-> Learn advanced data structures and algorithms.  
+-> Make a first large-scale project. 
 -> Make a first portfolio.  
--> Being active member in competitive programming.  
 
 Miscellaneous:  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuish&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
