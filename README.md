@@ -8,8 +8,8 @@
 Interested to learn computing, algorithms, gamedev and software engineering.    
 
 2022 Milestone:  
--> Learn advanced python and c programming.  
--> Learn advanced data structures and algorithms.  
+-> Learn python and c programming.  
+-> Learn data structures and algorithms.  
 -> Make a first large-scale project.    
 -> Make a first portfolio.  
 
