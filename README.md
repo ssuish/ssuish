@@ -6,7 +6,7 @@ A mediocre developer and low-motivation illustrator. I just started programming 
 - personal portfolio website.  
 - familiarized with git, docker, nosql, and other technologies.  
 - attain advanced profienciency on programming languages.  
-- study and practice advanced computing concepts, i.e. State Machines.  
+- study computer science concepts.  
 
 ### Preferred Languages
 ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
