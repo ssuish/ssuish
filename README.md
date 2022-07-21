@@ -2,7 +2,7 @@
 A mediocre developer and low-motivation illustrator. I just started programming since august 2021, and I mostly develop desktop applications.   
 
 ### 2022 Milestone:  
-- develop large-scale desktop applications.  
+- develop large-scale applications.  
 - personal portfolio website.  
 - familiarized with git, docker, nosql, and other technologies.  
 - attain advanced profienciency on programming languages.  
