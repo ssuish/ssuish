@@ -1,5 +1,5 @@
 ## About Me  
-I started programming this 2021 and had numerous haitus. I do bookeeping and      
+I started programming this 2021 and had numerous haitus. Digital Illustration and Anime/Manga is my hobby.  
 
 ### Preferred Languages
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
