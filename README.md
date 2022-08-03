@@ -2,7 +2,6 @@
 I started programming this 2021 and had numerous haitus. Digital Illustration and Anime/Manga is my hobby.  
 
 ### Preferred Languages
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -15,8 +14,8 @@ I started programming this 2021 and had numerous haitus. Digital Illustration an
 ![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 2022 Milestone:  
-- develop applications.  
+- develop business app.  
 - personal portfolio website.  
-- familiarized with modern technologies.  
-- attain programming language proficiency.  
-- study computer science concepts. 
+- 100 leetcode solved questions.  
+- learn data structures and algorithms.  
+- be happy.
