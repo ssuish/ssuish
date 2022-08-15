@@ -14,8 +14,8 @@ I started programming this 2021 and had numerous haitus. Digital Illustration an
 ![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 2022 Milestone:  
-- develop business app.  
+- develop production ready apps.  
 - personal portfolio website.  
-- 100 leetcode solved questions.  
+- 50 leetcode solved questions.  
 - learn data structures and algorithms.  
-- be happy.
+- stop being an imposter.
