@@ -3,7 +3,7 @@ I started programming this 2021 and had numerous haitus. Digital Illustration an
 
 ### Preferred Languages
 ![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![java](https://img.shields.io/badge/Java-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   
 ### Technologies Used
