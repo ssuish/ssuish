@@ -1,6 +1,12 @@
 ## About Me  
 I started programming this 2021 and had numerous haitus. Digital Illustration and Anime/Manga is my hobby.  
 
+![Ssuish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssuish&count_private=true&theme=radical&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuish&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ssuish's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ssuish&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Preferred Languages
 ![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![java](https://img.shields.io/badge/Java-DC322F?style=for-the-badge&logo=java&logoColor=white)
