@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/9b3ba871-64b5-40a8-ab9f-b8fa0ce57b36.svg)](https://wakatime.com/@9b3ba871-64b5-40a8-ab9f-b8fa0ce57b36)
 <h1 align="center"> Hello! I'm Suisoh 🍥 </h1>
 
 <div align="center"> 
@@ -18,3 +19,4 @@
 ![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
+
