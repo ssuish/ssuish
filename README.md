@@ -1,8 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/9b3ba871-64b5-40a8-ab9f-b8fa0ce57b36.svg)](https://wakatime.com/@9b3ba871-64b5-40a8-ab9f-b8fa0ce57b36)
-<h1 align="center"> Hello! I'm Suisoh 🍥 </h1>
-
-<div align="center"> 
-  <p>A <b>Student Software Developer</b> and <b>Illustrator</b>. Started programming in 2021 and currently building my future.</p><br>
+<div align="center">
+<h1> Hello! I'm Suisoh 🍥 </h1>
 
 ![Ssuish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssuish&count_private=true&theme=radical&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuish&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
