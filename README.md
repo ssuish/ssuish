@@ -7,7 +7,7 @@
 - 💻 A SWE student interested in **Systems design**, **UI/UX**, and **Game design and programming**.  
 - 📋 Programming my [Portfolio 2023]().  
 - 🛠 **Proficient in** - HTML/CSS/JS, C#, Python, and SQL.  
-- ⚙ **Other Skills and Technologies used** - Docker/Kubernetes, Ubuntu Linux, Cisco Networking, and Adobe.
+- ⚙ **Other Skills and Technologies used** - Docker/Kubernetes, Ubuntu Linux, Cisco Networking, Java, Go, and Adobe.
 
 ---
 <div align="center">
