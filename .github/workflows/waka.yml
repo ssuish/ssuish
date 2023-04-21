@@ -17,4 +17,6 @@ jobs:
           SHOW_OS: "False"
           SHOW_TIMEZONE: "False"
           SYMBOL_VERSION: 2
+          SHOW_LOC_CHART: "False"
+          SHOW_SHORT_INFO: "False"
           
