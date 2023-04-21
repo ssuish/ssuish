@@ -75,5 +75,3 @@ HTML                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 ---
-
-[![wakatime](https://wakatime.com/badge/user/9b3ba871-64b5-40a8-ab9f-b8fa0ce57b36.svg)](https://wakatime.com/@9b3ba871-64b5-40a8-ab9f-b8fa0ce57b36)
