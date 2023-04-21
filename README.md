@@ -1,31 +1,28 @@
 # Hello, I'm Ssuish 👋
 
+<img src="/assets/nijika-ijichi-ijichi-nijika.gif">
+
 - 🎎 Anime and Manga enthusiast.  
 - 🎨 Illustrator and animation hobbyist with a passion for storytelling and world-building.  
-- 💻 A SWE student interested in Systems design, UI/UX, and Game design and programming.
-- 📋 Programming my [Portfolio 2023]().
+- 💻 A SWE student interested in **Systems design**, **UI/UX**, and **Game design and programming**.  
+- 📋 Programming my [Portfolio 2023]().  
+- 🛠 **Proficient in** - HTML/CSS/JS, C#, Python, and SQL.  
+- ⚙ **Other Skills and Technologies used** - Docker/Kubernetes, Ubuntu Linux, Cisco Networking, and Adobe.
 
 ---
+<div align="center">
 
 ![Ssuish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssuish&count_private=true&theme=radical&show_icons=true)
+
+</div>
+
+---
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 185 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 📅 **I'm Most Productive on Saturday** 
 
 ```text
@@ -63,13 +60,6 @@ Java                     2 repos             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 Jupyter Notebook         2 repos             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.67 % 
 HTML                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.33 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/ssuish/ssuish/main/assets/bar_graph.png)
-
 
  Last Updated on 21/04/2023 07:37:44 UTC
 <!--END_SECTION:waka-->
