@@ -7,7 +7,7 @@
 - 💻 A SWE student interested in **Systems design**, **UI/UX**, and **Game design and programming**.  
 - 📋 Programming my [Portfolio 2024]().  
 - 🛠 **Proficient in** - HTML/CSS/JS, C#, C++, Unity, Python, and SQL.  
-- ⚙ **Other Skills and Technologies used** - Docker/Kubernetes, Ubuntu Linux, Cisco Networking, CloudFlare, Go, and Adobe.
+- ⚙ **Other Skills and Technologies used** - Docker/Kubernetes, Ubuntu Linux, Cisco Networking, CloudFlare, Go, and Photoshop/CSP.
 
 ### Websites/Portfolio Links
 - [The Odin Project | Ssuish's Project Directory](https://the-odin-project.pages.dev)
