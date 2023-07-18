@@ -4,9 +4,9 @@
 
 - 🎎 Anime and Manga enthusiast.  
 - 🎨 Illustrator and animation hobbyist with a passion for storytelling and world-building.  
-- 💻 A SWE student interested in **Systems design**, **UI/UX**, and **Game Design and Programming**.  
+- 💻 A self-learn SWE interested in **UI/UX**, **Game Arts and Design**, and **Web Development**.  
 - 📋 Programming my [Portfolio 2024]().  
-- 🛠 **Proficient in** - HTML/CSS/JS, C#, C++, Unity, Python, and SQL.  
+- 🛠 **Proficient in** - HTML/CSS/JS, React, NodeJS, C#/ASP.NET, C++, Unity, Python, and SQL.  
 - ⚙ **Other Skills and Technologies used** - Docker/Kubernetes, Ubuntu Linux, Cisco Networking, CloudFlare, Go, and Photoshop/CSP.
 
 ### Websites/Portfolio Links
