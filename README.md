@@ -7,7 +7,7 @@
 - 💻 A self-learn SWE interested in **UI/UX**, **Game Arts and Design**, and **Software Engineering**.  
 - 📋 Programming my [Portfolio 2024]().  
 - 🛠 **Proficient in** - React, Django, SQL/NOSQL databases, C/C++, C#, and Python.  
-- ⚙ **Other Skills and Technologies used** - Docker/Kubernetes, Github Actions, CloudFlare, GCP/AWS, Go, and Photoshop/CSP.
+- ⚙ **Other Skills and Technologies used** - Docker/Kubernetes, Github Actions, CloudFlare, GCP/AWS, Go, WordPress, and Photoshop/CSP.
 
 ### Websites/Portfolio Links
 - [The Odin Project | Ssuish's Project Directory](https://the-odin-project.pages.dev)
