@@ -4,10 +4,10 @@
 
 - 🎎 Anime and Manga enthusiast.  
 - 🎨 Illustrator and animation hobbyist with a passion for storytelling and world-building.  
-- 💻 A self-learn SWE interested in **UI/UX**, **Game Arts and Design**, and **Web Development**.  
+- 💻 A self-learn SWE interested in **UI/UX**, **Game Arts and Design**, and **Software Engineering**.  
 - 📋 Programming my [Portfolio 2024]().  
-- 🛠 **Proficient in** - HTML/CSS/JS, React, NodeJS, C#/ASP.NET, C++, Unity, Python, and SQL.  
-- ⚙ **Other Skills and Technologies used** - Docker/Kubernetes, Ubuntu Linux, CloudFlare, GCP/AWS, Go, and Photoshop/CSP.
+- 🛠 **Proficient in** - React, Django, SQL/NOSQL databases, C/C++, C#, and Python.  
+- ⚙ **Other Skills and Technologies used** - Docker/Kubernetes, Github Actions, CloudFlare, GCP/AWS, Go, and Photoshop/CSP.
 
 ### Websites/Portfolio Links
 - [The Odin Project | Ssuish's Project Directory](https://the-odin-project.pages.dev)
