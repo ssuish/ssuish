@@ -30,6 +30,6 @@
   
 ## Portfolio
 🛠️ **Coming Soon...**
-## Published Websites
+## Published Websites and Projects
 - [The Odin Project Project Compilation](https://the-odin-project.pages.dev) | [Repo]()
 - [FrontendMentor - QR Component](https://qrcode-component-fm-ssuish.netlify.app/) | [Repo]()
