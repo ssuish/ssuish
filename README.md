@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family:Fira Code">Ssuish</h1>
-<p align="center"><b>Versatile Game Developer and UX Designer</b></p>
+<p align="center"><b>Versatile AI, Game Developer, and UX Designer</b></p>
 
 <div align="center">
  
