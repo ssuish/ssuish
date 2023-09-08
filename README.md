@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family:Fira Code">Ssuish</h1>
-<p align="center"><b>Versatile AI, Game Developer, and UX Designer</b></p>
+<p align="center"><b>Versatile Game Developer, and UX Designer</b></p>
 
 <div align="center">
  
@@ -25,7 +25,7 @@
 
 <h2>Skills and Technologies Used</h2>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,py,php,dotnet" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,py,dotnet" />
 </a>
   
 ## Portfolio
