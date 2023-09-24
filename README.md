@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family:Fira Code">Ssuish</h1>
-<p align="center"><b>Versatile Game Developer, and UX Designer</b></p>
+<p align="center"><b>Versatile Web, Game Developer and UX Designer</b></p>
 
 <div align="center">
  
@@ -9,7 +9,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,linkedin" />
+    <img src="https://skillicons.dev/icons?i=discord,linkedin,github,twitter" />
  </a>
 </p>
 
@@ -25,11 +25,9 @@
 
 <h2>Skills and Technologies Used</h2>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,py,dotnet" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,unity,py,mysql,html,css,bootstrap,js,vue,svelte,django,nodejs,git,mongodb,figma,photoshop,xd,vscode,linux&perline=5" />
 </a>
   
-## Portfolio
-🛠️ **Coming Soon...**
-## Published Websites and Projects
+## Projects
 - [The Odin Project Project Compilation](https://the-odin-project.pages.dev) | [Repo]()
 - [FrontendMentor - QR Component](https://qrcode-component-fm-ssuish.netlify.app/) | [Repo]()
