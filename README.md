@@ -5,6 +5,7 @@
  
 ![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2058%20mins-blue)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+[![@ssuish's Holopin badges](https://holopin.me/ssuish)](https://holopin.io/@ssuish)
 
 </div>
 <p align="center">
