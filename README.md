@@ -1,12 +1,10 @@
 
 <div class="header">
- <div align="center">
-  <img src="assets/ssuish banner.gif">
- </div>
  
  ![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2058%20mins-blue)
  ![Visits](http://img.shields.io/badge/Profile%20Views-5-blue)
  <!-- [![My Holopin badges](https://holopin.me/ssuish)](https://holopin.io/@ssuish) -->
+ <h1>I am Ssuish</h1>
  <p class="aboutme">
   I am a technical game artist, illustrator, and creative developer passionate about innovating next-gen technologies into games and applications. 
  </p>
@@ -46,6 +44,7 @@
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ssuish&count_private=true&theme=tokyonight&show_icons=true)
  ![Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssuish&theme=tokyonight&exclude=shell,bash)
  ![Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssuish&theme=tokyonight&exclude=shell,bash)
+ ![Roadmap](https://roadmap.sh/card/tall/668fa73f7d03d0bb6dbd3883?variant=dark)
  </div>
 
 <div align=center>
