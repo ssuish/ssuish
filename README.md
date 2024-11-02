@@ -54,7 +54,7 @@
 -->
 
 # Hi! 👋, Welcome to my Github #
-I am **ssuish**, an Information Technology student, creative developer, illustrator and an aspiring technical artist. I love to **design** and **develop** next-gen games or software applications! 💻🖌️
+I am **ssuish** (suishi), an Information Technology student, creative developer, illustrator and an aspiring technical artist. I love to **design** and **develop** next-gen games or software applications! 💻🖌️
 
 I have a huge interest in working on **Mixed Reality**, **VFX**, and **Shaders** with Unity or Unreal Engine. 
 
