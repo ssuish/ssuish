@@ -5,15 +5,15 @@
 </div>
 
 # Hi! 👋, Welcome to my Github #
-I am **ssuish** (*suishi*), an Information Technology student, creative developer, illustrator and an aspiring technical artist. I love to **design** and **develop** next-gen games or software applications! 💻🖌️
+I am **ssuish** (*suishi*), an Information Technology student, software developer, illustrator and an aspiring technical artist. I love to apply creative **design** and **develop** next-gen games and software applications! 💻🖌️
 
-I have a huge interest in working on **Mixed Reality**, **VFX**, and **Shaders** with Unity or Unreal Engine. 
+I have a huge interest in working on the fields of **Mixed Reality**, **Game Development** and **HCI Systems**.
 
 Currently self-studying basics of **3D Modelling on Maya**, and **Wordpress** for my portfolio website ✍️
 
-I also do **gameplay programming**, **UI/UX**, and **web development**.
+You can see my showcases here in my <a href="" target="_blank">portfolio</a> and checkout my <a href="" target="_blank">resume</a>.
 
-You can see here my <a href="" target="_blank">portfolio</a> and <a href="" target="_blank">resume</a>. 
+Willing to do collaboration or work with me? You can contact me using this <a href="mailto:fubuki.k016@gmail.com">email</a>.
 
 # Skills and Technologies 🕹️🛠️ 
 - **Tech Stack:**
