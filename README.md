@@ -5,7 +5,7 @@
 </div>
 
 # Hi! 👋, Welcome to my Github #
-I am **ssuish** (*suishi*), an Information Technology student, software developer, illustrator and an aspiring technical artist. I love to apply creative **design** and **develop** next-gen games and software applications! 💻🖌️
+I am **ssuish** (*suishi*), a software developer, illustrator and technical artist. I love to apply creative **design** and **develop** next-gen games and software applications! 💻🖌️
 
 I have a huge interest in working on the fields of **Mixed Reality**, **Game Development** and **HCI Systems**.
 
@@ -18,11 +18,11 @@ Willing to do collaboration or work with me? You can contact me using this <a hr
 # Skills and Technologies 🕹️🛠️ 
 - **Tech Stack:**
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,php,wordpress,git,github,net" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,php,wordpress,git,github,net,flutter,docker,aws" />
  
 - **Game Development:**
   
-  <img src="https://skillicons.dev/icons?i=cs,cpp,unity,unreal" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,unity,unreal,godot" />
  
 - **Multimedia and UI/UX:**
   
