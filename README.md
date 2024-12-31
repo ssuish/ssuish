@@ -7,9 +7,9 @@
 # Hi! 👋, Welcome to my Github #
 I am **ssuish** (*suishi*), a software developer, illustrator and technical artist. I love to apply creative **design** and **develop** next-gen games and software applications! 💻🖌️
 
-I have a huge interest in working on the fields of **Mixed Reality**, **Game Development** and **HCI Systems**.
+I have a huge interest in working on the fields of **Game Development**, **Cloud Gaming** and **Interactive Computing**.
 
-Currently self-studying basics of **3D Modelling on Maya**, and **Wordpress** for my portfolio website ✍️
+Currently self-studying fundamentals of **3D Animation**, and **Webflow** for my portfolio website ✍️
 
 You can see my showcases here in my <a href="" target="_blank">portfolio</a> and checkout my <a href="" target="_blank">resume</a>.
 
