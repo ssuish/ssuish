@@ -11,7 +11,7 @@ I have a huge interest in working on the fields of **Game Development**, **Cloud
 
 Currently self-studying fundamentals of **3D Animation**, and **Webflow** for my portfolio website ✍️
 
-You can see my showcases here in my <a href="" target="_blank">portfolio</a>.
+You can see my showcases here in my <a href="" target="_blank">portfolio</a> [Not yet done].
 
 Willing to do collaboration or work with me? You can contact me using this <a href="mailto:fubuki.k016@gmail.com">email</a>.
 
