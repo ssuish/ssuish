@@ -18,7 +18,7 @@ Willing to do collaboration or work with me? You can contact me using this <a hr
 # Skills and Technologies 🕹️🛠️ 
 - **Tech Stack:**
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,php,rust,wordpress,git,github,net,linux,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,php,rust,git,github,net,linux,docker,aws" />
  
 - **Game Development:**
   
