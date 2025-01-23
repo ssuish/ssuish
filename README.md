@@ -5,7 +5,7 @@
 </div>
 
 # Hi! Welcome to my Github 👋 #
-I am **ssuish** (*suishi*), a software developer, illustrator and technical artist. I just love buidli 💻🖌️
+I am **ssuish** (*suishi*), a product engineer, illustrator and technical artist. I just love building games and softwares. 💻🖌️
 
 I have a huge interest in working on the fields of **Game Development**, **Cloud Gaming** and **Interactive Computing**.
 
@@ -18,7 +18,7 @@ Willing to do collaboration or work with me? You can contact me using this <a hr
 # Skills and Technologies 🕹️🛠️ 
 - **Tech Stack:**
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,php,wordpress,git,github,net,flutter,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,php,rust,wordpress,git,github,net,linux,docker,aws" />
  
 - **Game Development:**
   
