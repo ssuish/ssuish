@@ -4,14 +4,14 @@
  ![Visits](http://img.shields.io/badge/Profile%20Views-5-blue)
 </div>
 
-# Hi! 👋, Welcome to my Github #
-I am **ssuish** (*suishi*), a software developer, illustrator and technical artist. I love to express my **artistic vision** and **design thinking** to **develop next-gen** games and software applications! 💻🖌️
+# Hi! Welcome to my Github 👋 #
+I am **ssuish** (*suishi*), a software developer, illustrator and technical artist. I just love buidli 💻🖌️
 
 I have a huge interest in working on the fields of **Game Development**, **Cloud Gaming** and **Interactive Computing**.
 
 Currently self-studying fundamentals of **3D Animation**, and **Webflow** for my portfolio website ✍️
 
-You can see my showcases here in my <a href="" target="_blank">portfolio</a> and checkout my <a href="" target="_blank">resume</a>.
+You can see my showcases here in my <a href="" target="_blank">portfolio</a>.
 
 Willing to do collaboration or work with me? You can contact me using this <a href="mailto:fubuki.k016@gmail.com">email</a>.
 
@@ -30,15 +30,17 @@ Willing to do collaboration or work with me? You can contact me using this <a hr
 
 # Projects 🎮
 - ## Revita Rouge: A 2D Post-Apocalyptic Survival Environmental Game ##
-  - **Status:** *Ongoing Capstone Project* | **Itch.io:** *Pending approval from university* | **Github:** *TBA*
-  - Programmed a Quest System using Pub/Sub Singleton pattern that manages states of 12 quest events that subscribes to numerous game events from the 6 different game systems improving its modularity.
-  - Streamlines the source code and assets management using Unity DevOps for version control, and OneDrive as a backup cloud storage service to effectively collaborate our cross-functional team.
-  - Designed and developed more than 20 2D game art assets including illustrations, tilemaps, entities, animation frames, and UI assets as a sole technical game artist in the team.
+  - **Status:** *Completed* | **Itch.io:** *Pending approval from university* 
+  - Led an interdisciplinary research team of 4 members to successfully develop and be nominated for best capstone project, and present it at the International Conference on Sustainable Environmental Technologies (ICSET) 2025.
+  - Developed a Quest System using the Pub-Sub Singleton pattern to manage the states of 26 quest events, subscribing to game events from 6 distinct systems, improving modularity and maintainability.
+  - Optimized mobile game performance, achieving a 40.6% reduction in CPU time, staying within the 21.66 ms frame budget, and improving frame stability to reduce frame drops leading to 60% player completion rate.
+  - Streamlines the source code and assets management using Unity DevOps service for version control, file-locking mechanism and automated builds to effectively collaborate our cross-functional team. 
+
 - ## Clean Up!: An Educational Puzzle Environmental Game ##
-  - **Status:** *Refactoring* | **Itch.io:** *TBA* | **Github:** *TBA*
+  - **Status:** *Refactoring* | **Itch.io:** *TBA* 
   - Developed a game design document that won 1st Place in Environmental Game Design Competition.
   - Developed a client-server system architecture integrating GameMaker Studio, PHP Leaderboards website, and MySQL database server.
-  - Programmed a SQL connector program using HTTP protocol that will allow GameMaker Studio connect to MySQL which was previously unsupported.
+  - Programmed a SQL connector program using REST that will allow GameMaker Studio connect to MySQL which was previously unsupported.
 
 # Github Statistics 📈
 *Note: Top Level Languages are a metrics of which languages I have the most code in my repositories, it doesn't indicate level of proficiency.*
