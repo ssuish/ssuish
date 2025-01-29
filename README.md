@@ -5,7 +5,7 @@
 </div>
 
 # Hi! Welcome to my Github 👋 #
-I am **ssuish** (*suishi*), a product engineer, illustrator and technical artist. I just love building games and softwares. 💻🖌️
+I am **ssuish** (*suishi*), a software engineer, illustrator and technical artist. I just love building games and softwares. 💻🖌️
 
 I have a huge interest in working on the fields of **Cloud Gaming** and **Interactive Computing**.
 
