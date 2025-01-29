@@ -7,7 +7,7 @@
 # Hi! Welcome to my Github 👋 #
 I am **ssuish** (*suishi*), a product engineer, illustrator and technical artist. I just love building games and softwares. 💻🖌️
 
-I have a huge interest in working on the fields of **Game Development**, **Cloud Gaming** and **Interactive Computing**.
+I have a huge interest in working on the fields of **Cloud Gaming** and **Interactive Computing**.
 
 Currently self-studying fundamentals of **3D Animation**, and **Webflow** for my portfolio website ✍️
 
@@ -41,6 +41,11 @@ Willing to do collaboration or work with me? You can contact me using this <a hr
   - Developed a game design document that won 1st Place in Environmental Game Design Competition.
   - Developed a client-server system architecture integrating GameMaker Studio, PHP Leaderboards website, and MySQL database server.
   - Programmed a SQL connector program using REST that will allow GameMaker Studio connect to MySQL which was previously unsupported.
+
+- ## Project Endo: TCG Roguelike Web3 Game ##
+  - **Status:** Ongoing Project | *Under pre-production phase*
+  - Developing a TCG roguelike game using Godot .NET that implements game elements inspired from Balatro and Slay the Spire.
+  - Implementing a custom Game API middleware for Endo to be integrated with NFT dashboard website built on React/NestJS and Monad EVM Blockchain.   
 
 # Github Statistics 📈
 *Note: Top Level Languages are a metrics of which languages I have the most code in my repositories, it doesn't indicate level of proficiency.*
