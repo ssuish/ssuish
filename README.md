@@ -5,7 +5,7 @@
 </div>
 
 # Hi! Welcome to my Github 👋 #
-I am **ssuish** (*suishi*), a software engineer, illustrator and technical artist. I just love building games and softwares. 💻🖌️
+I am Kofee, a software engineer, illustrator and technical artist. I just love building games and softwares. 💻🖌️
 
 I have a huge interest in working on the fields of **Cloud Gaming** and **Interactive Computing**.
 
@@ -13,7 +13,7 @@ Currently self-studying fundamentals of **3D Animation**, and **Webflow** for my
 
 You can see my showcases here in my <a href="" target="_blank">portfolio</a> [Not yet done].
 
-Willing to do collaboration or work with me? You can contact me using this <a href="mailto:quidor.adrean@gmail.com">email</a>.
+Willing to do collaboration or work with me? You can contact me using this <a href="">email</a>.
 
 # Skills and Technologies 🕹️🛠️ 
 - **Tech Stack:**
