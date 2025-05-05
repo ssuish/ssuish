@@ -29,16 +29,6 @@ Willing to do collaboration or work with me? You can contact me using this <a hr
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects,blender" />
 
 # Projects 🎮
-
-# Github Statistics 📈
-*Note: Top Level Languages are a metrics of which languages I have the most code in my repositories, it doesn't indicate level of proficiency.*
-
-<div align="center">
- 
- ![Details Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssuish&theme=tokyonight)
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ssuish&count_private=true&theme=tokyonight&show_icons=true)
- ![Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssuish&theme=tokyonight&exclude=shell,bash)
- ![Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssuish&theme=tokyonight&exclude=shell,bash)
  
 </div>
 
