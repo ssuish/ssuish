@@ -9,7 +9,7 @@ I am Kofee, a software engineer, illustrator and technical artist. I just love b
 
 I have a huge interest in working on the fields of **Cloud Gaming** and **Interactive Computing**.
 
-Currently self-studying fundamentals of **3D Animation**, and **Webflow** for my portfolio website ✍️
+Currently self-studying fundamentals of **3D Animation**, and **React** for my portfolio website ✍️
 
 You can see my showcases here in my <a href="" target="_blank">portfolio</a> [Not yet done].
 
