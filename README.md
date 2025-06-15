@@ -5,20 +5,20 @@
 </div>
 
 # Hi! Welcome to my Github 👋 #
-I am Kofee, a software engineer, illustrator and technical artist. I just love building games and softwares. 💻🖌️
+I am Kofee, a product engineer, technical artist and illustrator hobbysist. I develop and work on game systems and backend engineering projects. 💻🖌️
 
 I have a huge interest in working on the fields of **Cloud Gaming** and **Interactive Computing**.
 
-Currently self-studying fundamentals of **3D Animation**, and **React** for my portfolio website ✍️
+Currently self-studying fundamentals of **3D Modelling/Animation**, and **React** for my portfolio website ✍️
 
 You can see my showcases here in my <a href="" target="_blank">portfolio</a> [Not yet done].
 
-Willing to do collaboration or work with me? You can contact me using this <a href="">email</a>.
+Do you have any project in mind? You can contact me using this <a href="fubuki.k016@gmail.com">email</a>.
 
 # Skills and Technologies 🕹️🛠️ 
-- **Tech Stack:**
+- **Web Development:**
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,php,rust,git,github,net,linux,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,net,bootstrap,react,nodejs,express,yarn,firebase,supabase,aws,mysql,postgres,jest,docker" />
  
 - **Game Development:**
   
@@ -28,8 +28,12 @@ Willing to do collaboration or work with me? You can contact me using this <a hr
   
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects,blender" />
 
-# Projects 🎮
- 
+# Github Stats 📊
+
+<div align=center>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssuish&theme=github_dark&border_radius=25" alt="GitHub repos per language" />
+<img src="https://streak-stats.demolab.com?user=ssuish&theme=github_dark_dimmed&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=ssuish&show=reviews,prs_merged,prs_merged_percentage,show_icons=true&theme=github_dark&border_radius=25" alt="ssuish's gitHub stats">
 </div>
 
 ---
