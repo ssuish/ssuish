@@ -1,7 +1,6 @@
 <div align="center">
- 
- ![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2058%20mins-blue)
- ![Visits](http://img.shields.io/badge/Profile%20Views-5-blue)
+ <!--START_SECTION:waka-->
+ <!--END_SECTION:waka-->
 </div>
 
 # Hi! Welcome to my Github 👋 #
