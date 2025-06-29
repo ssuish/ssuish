@@ -7,7 +7,7 @@ Currently self-studying fundamentals of **3D Modelling/Animation**, and **React*
 
 You can see my showcases here in my <a href="" target="_blank">portfolio</a> [Not yet done].
 
-Do you have any project in mind? You can contact me using this <a href="mailto:fubuki.k016@gmail.com">email</a>.
+Do you have any project in mind? You can contact me using this <a href="mailto:kofeejan.games@gmail.com">email</a>.
 
 # Skills and Technologies 🕹️🛠️ 
 - **Web Development:**
