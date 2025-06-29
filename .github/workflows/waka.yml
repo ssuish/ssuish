@@ -19,7 +19,4 @@ jobs:
           SYMBOL_VERSION: 2
           SHOW_LOC_CHART: "False"
           SHOW_SHORT_INFO: "False"
-          IGNORED_LANGUAGES: YAML JSON TOML
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          SECTION_NAME: waka
           
