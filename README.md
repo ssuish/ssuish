@@ -1,28 +1,55 @@
-# Hi! This is my Portfolio 👋 #
-I am Kofee, a product engineer, technical artist and illustrator hobbysist. I develop and work on game systems and backend engineering projects. 💻🖌️
+# 👋 Hi! I'm SSUISH 
 
-I have a huge interest in working on the fields of **Cloud Gaming** and **Interactive Computing**.
+I'm a software engineer, game developer, illustrator and an Information Technology fresh graduate. 
 
-Currently self-studying fundamentals of **3D Modelling/Animation**, and **React** for my portfolio website ✍️
+I'm specialized in building user-centered full-stack solutions in web and games, with self-taught skills in user experience and game design.     
 
-You can see my showcases here in my <a href="" target="_blank">portfolio</a> [Not yet done].
+# Let's connect! 
 
-Do you have any project in mind? You can contact me using this <a href="mailto:kofeejan.games@gmail.com">email</a>.
+- <a href="mailto:kofeejan.games@gmail.com">Email</a>.
+- <a href="https://x.com/kofee_0x">X/Twitter</a>
 
-# Skills and Technologies 🕹️🛠️ 
-- **Web Development:**
+I'm open to collabs on these projects:
+
+- Game toolings and UI/UX
+- Gamified full-stack web solutions
+- Game-inspired web interfaces
+- Hackathons or game jam challenges
+
+# 🛠️ Tech Stack & Tools 
+- **Languages**
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,net,bootstrap,react,nodejs,express,yarn,firebase,supabase,aws,mysql,postgres,jest,docker" />
- 
-- **Game Development:**
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,cs,cpp,mysql,postgres" />
+
+- **Frameworks & Libraries**
   
-  <img src="https://skillicons.dev/icons?i=cs,cpp,unity,unreal,godot" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,react,nodejs,express,yarn,dotnet,firebase,supabase,webflow,threejs" />
+  
+- **Testing**
+  
+  <img src="https://skillicons.dev/icons?i=jest,postman,cypress" />
+  
+- **CI/CD & Cloud**
+  
+  <img src="https://skillicons.dev/icons?i=github,vercel,gcp,aws" />
+  
+- **Game Development**
+  
+  <img src="https://skillicons.dev/icons?i=unity,godot" />
  
-- **Multimedia and UI/UX:**
+- **Creative Tech & UI/UX:**
   
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects,blender" />
 
-# Github Stats 📊
+# 🔥 Featured Projects
+
+| Project | Tech | Description |
+|--------|------|-------------|
+| Revita Rogue | Unity, C#, SQL | A capstone research project as one of the best in the university with paper acceptance in international conference. Top-down survival game with deep crafting, permadeath, environment agency, AI, pub-sub event handling and quests systems. |
+| Dynamic Form | React, TS, NestJS, Firebase | A rework based on my internship feature task, a dynamic schema-based form system with intergrated into firebase, contentful CMS, and access controls. |
+| Escape the Chasm | React, Phaser, Typescript, Solidity, Supabase | An NFT game powered by Base blockchain network and Sequence wallet. Features gamified player dashboard, web-native platforming game, and ERC 721 (NFT) smart contract management. |
+
+# 📊 Github Stats 
 ## Coding Hours
 
  <!--START_SECTION:waka-->
