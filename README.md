@@ -6,7 +6,9 @@ I'm specialized in building user-centered full-stack solutions in web and games,
 
 # Let's connect! 
 
-- <a href="mailto:kofeejan.games@gmail.com">Email</a>.
+You can contact me at:
+
+- <a href="mailto:kofeejan.games@gmail.com">Email</a>
 - <a href="https://x.com/kofee_0x">X/Twitter</a>
 
 I'm open to collabs on these projects:
