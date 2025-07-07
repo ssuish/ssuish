@@ -2,7 +2,14 @@
 
 I'm a software engineer, game developer, illustrator and an Information Technology fresh graduate. 
 
-I'm specialized in building user-centered full-stack solutions in web and games, with self-taught skills in user experience and game design.     
+I'm specialized in building user-centered full-stack solutions in web and games, with self-taught skills in user experience and game design. 
+
+## ✅ Current Goals
+
+- [ ] Learn frontend engineering starting from the fundamentals.
+- [ ] Upskill on production-ready API design, performance, and security.
+- [ ] Apply testing and CI/CD in the current workflow.
+- [ ] Build small projects and showcase it in my own personal portfolio!
 
 # Let's connect! 
 
@@ -45,11 +52,11 @@ I'm open to collabs on these projects:
 
 # 🔥 Featured Projects
 
-| Project | Tech | Description |
-|--------|------|-------------|
-| Revita Rogue | Unity, C#, SQL | A capstone research project as one of the best in the university with paper acceptance in international conference. Top-down survival game with deep crafting, permadeath, environment agency, AI, pub-sub event handling and quests systems. |
-| Dynamic Form | React, TS, NestJS, Firebase | A rework based on my internship feature task, a dynamic schema-based form system with intergrated into firebase, contentful CMS, and access controls. |
-| Escape the Chasm | React, Phaser, Typescript, Solidity, Supabase | An NFT game powered by Base blockchain network and Sequence wallet. Features gamified player dashboard, web-native platforming game, and ERC 721 (NFT) smart contract management. |
+| Project | Tech | Description | Status |
+|--------|------|-------------|---------|
+| Revita Rogue | Unity, C#, SQL | A capstone research project as one of the best in the university with paper acceptance in international conference and competitions. Top-down survival game with deep crafting, permadeath, environment agency, AI, pub-sub event handling and quests systems. | Deployed in [Itch.io](https://kofeejan.itch.io/revita-rogue-capstone-project-showcase) |
+| Dynamic Form | React, TS, NestJS, Firebase | A rework as a personal project based on my internship feature task, a dynamic schema-based form system with intergrated into firebase, contentful CMS, and access controls. | WIP |
+<!--| Escape the Chasm | React, Phaser, Typescript, Solidity, Supabase | An NFT game powered by Base blockchain network and Sequence wallet. Features gamified player dashboard, web-native platforming game, and ERC 721 (NFT) smart contract management. | | -->
 
 # 📊 Github Stats 
 ## Coding Hours
