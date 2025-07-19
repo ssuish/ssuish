@@ -59,7 +59,13 @@ I'm open to collabs on these projects:
 <!-- | Dynamic Form | React, TS, NestJS, Firebase | A rework as a personal project based on my internship feature task, a dynamic schema-based form system with intergrated into firebase, contentful CMS, and access controls. | WIP |
 <!--| Escape the Chasm | React, Phaser, Typescript, Solidity, Supabase | An NFT game powered by Base blockchain network and Sequence wallet. Features gamified player dashboard, web-native platforming game, and ERC 721 (NFT) smart contract management. | | -->
 
+<details>
+<summary>
+  
 # 📊 Github Stats 
+
+</summary>
+
 ## Coding Hours
 
  <!--START_SECTION:waka-->
@@ -85,6 +91,7 @@ TypeScript       12 hrs 57 mins  ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <img src="https://streak-stats.demolab.com?user=ssuish&theme=github_dark_dimmed&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api?username=ssuish&show=reviews,prs_merged,prs_merged_percentage,show_icons=true&theme=github_dark&border_radius=25" alt="ssuish's gitHub stats">
 </div>
+</details>
 
 ---
 
