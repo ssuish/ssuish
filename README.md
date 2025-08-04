@@ -56,8 +56,8 @@ I'm open to collabs on these projects:
 |--------|------|-------------|---------|
 | Revita Rogue | Unity, C#, SQL | A capstone research project as one of the best in the university with paper acceptance in international conference and competitions. Top-down survival mobile game with deep crafting, permadeath, environment agency, AI, pub-sub event handling and quests systems. | <img src="https://img.shields.io/badge/status-Done-green"><a href="https://kofeejan.itch.io/revita-rogue-capstone-project-showcase"><img src="https://img.shields.io/badge/Play_on_Itch-F85A5A"></a></a> |
 | Game Design Smart Adviser | React, Typescript, Postgres, Qdrant, OpenAI | An AI agent for solo developers and students to easily manage game design documents, assist on ideation and game research, and have an in-depth review of your game design strategies. | <img src="https://img.shields.io/badge/status-WIP-yellow"> |
-<!-- | Dynamic Form | React, TS, NestJS, Firebase | A rework as a personal project based on my internship feature task, a dynamic schema-based form system with intergrated into firebase, contentful CMS, and access controls. | WIP |
-<!--| Escape the Chasm | React, Phaser, Typescript, Solidity, Supabase | An NFT game powered by Base blockchain network and Sequence wallet. Features gamified player dashboard, web-native platforming game, and ERC 721 (NFT) smart contract management. | | -->
+| Escape the Chasm | React, Phaser, Typescript, Solidity, Supabase | An NFT game powered by Base blockchain network and Sequence wallet. Features gamified player dashboard, web-native platforming game, and ERC 721 (NFT) smart contract management. | <img src="https://img.shields.io/badge/status-WIP-yellow"> |
+<!-- | Dynamic Form | React, TS, NestJS, Firebase | A rework as a personal project based on my internship feature task, a dynamic schema-based form system with intergrated into firebase, contentful CMS, and access controls. | WIP | -->
 
 <details>
 <summary>
