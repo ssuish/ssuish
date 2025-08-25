@@ -71,7 +71,7 @@ I'm open to collabs on these projects:
  <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2023 - To: 22 August 2025
+From: 28 January 2023 - To: 23 August 2025
 
 Total Time: 207 hrs 17 mins
 
