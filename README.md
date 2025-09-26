@@ -1,31 +1,15 @@
 # 👋 Hi! I'm SSUISH 
 
-I'm a software engineer, game developer, illustrator and an Information Technology fresh graduate. 
+I'm an Application Developer @ Accenture and a hobbyist game developer and freelance illustrator.  
 
-I'm specialized in building user-centered full-stack solutions in web and games, with self-taught skills in user experience and game design. 
+## Let's connect! 
 
-## ✅ Current Goals
+Do you have project in mind? I'm open for collaboration and you can contact me at:
 
-- [ ] Learn frontend engineering starting from the fundamentals.
-- [ ] Upskill on production-ready API design, performance, and security.
-- [ ] Apply testing and CI/CD in the current workflow.
-- [ ] Build small projects and showcase it in my own personal portfolio!
+- 📩 <a href="mailto:kofeejan.games@gmail.com">Email</a>
+- 🐦 <a href="https://x.com/kofee_0x">X/Twitter</a>
 
-# Let's connect! 
-
-You can contact me at:
-
-- <a href="mailto:kofeejan.games@gmail.com">Email</a>
-- <a href="https://x.com/kofee_0x">X/Twitter</a>
-
-I'm open to collabs on these projects:
-
-- Game toolings and UI/UX
-- Gamified full-stack web solutions
-- Game-inspired web interfaces
-- Hackathons or game jam challenges
-
-# 🛠️ Tech Stack & Tools 
+## 🛠️ Tech Stack & Tools 
 - **Languages**
   
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,cs,cpp,mysql,postgres" />
@@ -50,7 +34,7 @@ I'm open to collabs on these projects:
   
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects,blender" />
 
-# 🔥 Featured Projects
+## 🔥 Featured Projects
 
 | Project | Tech | Description | Status |
 |--------|------|-------------|---------|
