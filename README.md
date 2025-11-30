@@ -54,7 +54,7 @@ Do you have project in mind? I'm open for collaboration and you can contact me a
  <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2023 - To: 27 November 2025
+From: 28 January 2023 - To: 28 November 2025
 
 Total Time: 210 hrs 38 mins
 
