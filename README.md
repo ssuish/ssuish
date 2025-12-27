@@ -1,6 +1,6 @@
-# 👋 Hi! I'm SSUISH 
+# Hey there! 👋 
 
-I'm an Application Developer @ Accenture and a hobbyist game developer and freelance illustrator.  
+I am a Software Developer focused on bridging the gap between complex business logic and scalable cloud architecture. Currently specializing in Enterprise Integrations and AWS Cloud infrastructure. Outside of my work, I'm building my own event-driven, cloud-native games using Typescript, Python and C#.
 
 ## Let's connect! 
 
@@ -12,11 +12,11 @@ Do you have project in mind? I'm open for collaboration and you can contact me a
 ## 🛠️ Tech Stack & Tools 
 - **Languages**
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,cs,cpp,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,cs,python" />
 
 - **Frameworks & Libraries**
   
-  <img src="https://skillicons.dev/icons?i=bootstrap,react,nodejs,express,yarn,dotnet,firebase,supabase,webflow,threejs" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,react,nodejs,nest,yarn,dotnet,firebase,supabase,mysql,postgres" />
   
 - **Testing**
   
@@ -24,11 +24,11 @@ Do you have project in mind? I'm open for collaboration and you can contact me a
   
 - **CI/CD & Cloud**
   
-  <img src="https://skillicons.dev/icons?i=github,vercel,gcp,aws" />
+  <img src="https://skillicons.dev/icons?i=github,vercel,terraform,gcp,aws" />
   
 - **Game Development**
   
-  <img src="https://skillicons.dev/icons?i=unity,godot" />
+  <img src="https://skillicons.dev/icons?i=unity,godot,threejs" />
  
 - **Creative Tech & UI/UX:**
   
@@ -38,8 +38,8 @@ Do you have project in mind? I'm open for collaboration and you can contact me a
 
 | Project | Tech | Description | Status |
 |--------|------|-------------|---------|
-| Revita Rogue | Unity, C#, SQL | A capstone research project as one of the best in the university with paper acceptance in international conference and competitions. Top-down survival mobile game with deep crafting, permadeath, environment agency, AI, pub-sub event handling and quests systems. | <img src="https://img.shields.io/badge/status-Done-green"><a href="https://kofeejan.itch.io/revita-rogue-capstone-project-showcase"><img src="https://img.shields.io/badge/Play_on_Itch-F85A5A"></a></a> |
-| Escape the Chasm | React, Phaser, Typescript, Solidity, Supabase | An NFT game powered by Base blockchain network and Sequence wallet. Features gamified player dashboard, web-native platforming game, and ERC 721 (NFT) smart contract management. | <img src="https://img.shields.io/badge/status-Done-green"> |
+| Revita Rogue | Unity, C#, SQL | A capstone research project as one of the best in the university with paper acceptance in international conferences and competitions. Top-down survival mobile game with deep crafting and quest systems, environment restoration, persistent worlds, and event-driven architecture. | <img src="https://img.shields.io/badge/status-Done-green"><a href="https://kofeejan.itch.io/revita-rogue-capstone-project-showcase"><img src="https://img.shields.io/badge/Play_on_Itch-F85A5A"></a></a> |
+| Escape the Chasm | React, Phaser, Typescript, Solidity, Supabase | An NFT game powered by Base blockchain network and Sequence wallet built for OJT Final Project. Features gamified player dashboard, web-native platforming game, and ERC 721 (NFT) smart contract management. | <img src="https://img.shields.io/badge/status-Done-green"> |
 <!-- | Dynamic Form | React, TS, NestJS, Firebase | A rework as a personal project based on my internship feature task, a dynamic schema-based form system with intergrated into firebase, contentful CMS, and access controls. | WIP | -->
 
 <details>
