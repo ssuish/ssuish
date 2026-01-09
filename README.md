@@ -9,6 +9,12 @@ Do you have project in mind? I'm open for collaboration and you can contact me a
 - 📩 <a href="mailto:kofeejan.games@gmail.com">Email</a>
 - 🐦 <a href="https://x.com/kofee_0x">X/Twitter</a>
 
+## What I'm doing right now
+
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/1ac5a9c7-6524-4cb4-93e8-403a9f273446/thumbnail" >
+</p>
+
 ## 🛠️ Tech Stack & Tools 
 - **Languages**
   
@@ -71,8 +77,6 @@ C#               15 hrs 42 mins  ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <div align=center>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssuish&theme=github_dark&border_radius=25" alt="GitHub repos per language" />
-<img src="https://streak-stats.demolab.com?user=ssuish&theme=github_dark_dimmed&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api?username=ssuish&show=reviews,prs_merged,prs_merged_percentage,show_icons=true&theme=github_dark&border_radius=25" alt="ssuish's gitHub stats">
 </div>
 </details>
 
