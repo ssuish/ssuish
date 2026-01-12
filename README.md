@@ -1,6 +1,6 @@
 # Hey there! 👋 
 
-I am a Software Developer focused on bridging the gap between complex business logic and scalable cloud architecture. Currently specializing in Enterprise Integrations and AWS Cloud infrastructure. Outside of my work, I'm building my own event-driven, cloud-native games using Typescript, Python and C#.
+I am a Software Developer focused on bridging the gap between complex business logic and scalable cloud architecture. Currently specializing in Enterprise Integrations and AWS Cloud infrastructure. Outside of my work, I'm building my own event-driven, cloud-native games and web applications using Typescript, Python and C#.
 
 ## Let's connect! 
 
