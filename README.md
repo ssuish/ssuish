@@ -60,7 +60,7 @@ Do you have project in mind? I'm open for collaboration and you can contact me a
  <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2023 - To: 16 January 2026
+From: 28 January 2023 - To: 17 January 2026
 
 Total Time: 214 hrs 44 mins
 
