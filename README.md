@@ -1,13 +1,8 @@
 # Hey there! 👋 
 
-I am a Software Developer focused on bridging the gap between complex business logic and scalable cloud architecture. Currently specializing in Enterprise Integrations and AWS Cloud infrastructure. Outside of my work, I'm building my own event-driven, cloud-native games and web applications using Typescript, Python and C#.
+I'm an software integration developer currently managing complex enterprise integrations and cloud infrastructure within the UKG Pro ecosystem. I specialize in making large-scale business logic work with Boomi, JavaScript and SQL.
 
-## Let's connect! 
-
-Do you have project in mind? I'm open for collaboration and you can contact me at:
-
-- 📩 <a href="mailto:kofeejan.games@gmail.com">Email</a>
-- 🐦 <a href="https://x.com/kofee_0x">X/Twitter</a>
+Outside of my enterprise work, I develop distributed, cloud-native games in Unity and custom backend tools using TypeScript, Python, C#/.NET, and AWS.
 
 ## What I'm doing right now
 
