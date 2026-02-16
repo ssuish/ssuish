@@ -39,13 +39,14 @@ I optimize for correctness, maintainability, and pragmatic delivery over novelty
 | Escape the Chasm | React, Phaser, Typescript, Solidity, Supabase | An NFT game powered by Base and Core blockchain networks built for OJT Final Project. Features gamified player dashboard, web-native platforming game, and ERC 721 (NFT) smart contract management. | <img src="https://img.shields.io/badge/status-Done-green"> |
 <!-- | Dynamic Form | React, TS, NestJS, Firebase | A rework as a personal project based on my internship feature task, a dynamic schema-based form system with intergrated into firebase, contentful CMS, and access controls. | WIP | -->
 
+<details>
+
 ## What I'm doing right now
 
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/1ac5a9c7-6524-4cb4-93e8-403a9f273446/thumbnail" >
 </p>
 
-<details>
 <summary>
   
 # 📊 Github Stats 
