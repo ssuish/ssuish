@@ -1,14 +1,10 @@
 # Hey there! 👋 
 
-I'm an software integration developer currently managing complex enterprise integrations and cloud infrastructure within the UKG Pro ecosystem. I specialize in making large-scale business logic work with Boomi, JavaScript and SQL.
+Backend-focused software engineer with experience building data-driven systems, API backends, and cloud infrastructure.
 
-Outside of my enterprise work, I develop distributed, cloud-native games in Unity and custom backend tools using TypeScript, Python, C#/.NET, and AWS.
+I currently work on enterprise-grade integrations (Boomi, Javascript, SQL-driven workflows) for UKG Pro systems and build backend-heavy side projects, including game backends, persistence layers, and distributed systems using TypeScript, Python, C#, and AWS.
 
-## What I'm doing right now
-
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/1ac5a9c7-6524-4cb4-93e8-403a9f273446/thumbnail" >
-</p>
+I optimize for correctness, maintainability, and pragmatic delivery over novelty.
 
 ## 🛠️ Tech Stack & Tools 
 - **Languages**
@@ -39,9 +35,15 @@ Outside of my enterprise work, I develop distributed, cloud-native games in Unit
 
 | Project | Tech | Description | Status |
 |--------|------|-------------|---------|
-| Revita Rogue | Unity, C#, SQL | A capstone research project as one of the best in the university with paper acceptance in international conferences and competitions. Top-down survival mobile game with deep crafting and quest systems, environment restoration, persistent worlds, and event-driven architecture. | <img src="https://img.shields.io/badge/status-Done-green"><a href="https://kofeejan.itch.io/revita-rogue-capstone-project-showcase"><img src="https://img.shields.io/badge/Play_on_Itch-F85A5A"></a></a> |
-| Escape the Chasm | React, Phaser, Typescript, Solidity, Supabase | An NFT game powered by Base blockchain network and Sequence wallet built for OJT Final Project. Features gamified player dashboard, web-native platforming game, and ERC 721 (NFT) smart contract management. | <img src="https://img.shields.io/badge/status-Done-green"> |
+| Revita Rogue | Unity, C#, SQL | Designed and implemented persistent game systems including player progression, crafting state, quest tracking, and event-driven world updates. Focused on data modeling, save-state integrity, and scalable content systems rather than purely gameplay logic. | <img src="https://img.shields.io/badge/status-Done-green"><a href="https://kofeejan.itch.io/revita-rogue-capstone-project-showcase"><img src="https://img.shields.io/badge/Play_on_Itch-F85A5A"></a> <a href="https://github.com/ssuish/revita-rouge-legacy.git"><img src="https://img.shields.io/badge/Repo_Link-0B6623"></a> |
+| Escape the Chasm | React, Phaser, Typescript, Solidity, Supabase | An NFT game powered by Base and Core blockchain networks built for OJT Final Project. Features gamified player dashboard, web-native platforming game, and ERC 721 (NFT) smart contract management. | <img src="https://img.shields.io/badge/status-Done-green"> |
 <!-- | Dynamic Form | React, TS, NestJS, Firebase | A rework as a personal project based on my internship feature task, a dynamic schema-based form system with intergrated into firebase, contentful CMS, and access controls. | WIP | -->
+
+## What I'm doing right now
+
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/1ac5a9c7-6524-4cb4-93e8-403a9f273446/thumbnail" >
+</p>
 
 <details>
 <summary>
