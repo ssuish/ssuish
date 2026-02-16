@@ -55,7 +55,7 @@ Outside of my enterprise work, I develop distributed, cloud-native games in Unit
  <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2023 - To: 13 February 2026
+From: 28 January 2023 - To: 14 February 2026
 
 Total Time: 215 hrs 38 mins
 
