@@ -40,6 +40,11 @@ I optimize for correctness, maintainability, and pragmatic delivery over novelty
 <!-- | Dynamic Form | React, TS, NestJS, Firebase | A rework as a personal project based on my internship feature task, a dynamic schema-based form system with intergrated into firebase, contentful CMS, and access controls. | WIP | -->
 
 <details>
+<summary>
+  
+# 📊 Github Stats 
+
+</summary>
 
 ## What I'm doing right now
 
@@ -47,11 +52,6 @@ I optimize for correctness, maintainability, and pragmatic delivery over novelty
   <img src="https://api.boot.dev/v1/users/public/1ac5a9c7-6524-4cb4-93e8-403a9f273446/thumbnail" >
 </p>
 
-<summary>
-  
-# 📊 Github Stats 
-
-</summary>
 
 ## Coding Hours
 
@@ -70,14 +70,6 @@ C#               16 hrs 34 mins  ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-
-## Repo Stats
-
-<div align=center>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssuish&theme=github_dark&border_radius=25" alt="GitHub repos per language" />
-</div>
-</details>
-
 ---
 
 <div align=center>
