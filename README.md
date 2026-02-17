@@ -1,10 +1,11 @@
-# Hey there! 👋 
+<div align=center>
+ <img src="assets/95219014_p0_cropped.PNG" height="50%" width="100%">
+</div>
 
-Backend-focused software engineer with experience building data-driven systems, API backends, and cloud infrastructure.
+# はじめまして! 👋 
+Enterprise Integration Developer, Illustrator, and Game Developer
 
-I currently work on enterprise-grade integrations (Boomi, Javascript, SQL-driven workflows) for UKG Pro systems and build backend-heavy side projects, including game backends, persistence layers, and distributed systems using TypeScript, Python, C#, and AWS.
-
-I optimize for correctness, maintainability, and pragmatic delivery over novelty.
+I currently work on enterprise integrations using Boomi, JavaScript, SQL for UKG Pro systems and build backend side projects, including game backends, persistence layers, and distributed systems using TypeScript, Python, C#, and AWS.
 
 ## 🛠️ Tech Stack & Tools 
 - **Languages**
@@ -31,18 +32,10 @@ I optimize for correctness, maintainability, and pragmatic delivery over novelty
   
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects,blender" />
 
-## 🔥 Featured Projects
-
-| Project | Tech | Description | Status |
-|--------|------|-------------|---------|
-| Revita Rogue | Unity, C#, SQL | Designed and implemented persistent game systems including player progression, crafting state, quest tracking, and event-driven world updates. Focused on data modeling, save-state integrity, and scalable content systems rather than purely gameplay logic. | <img src="https://img.shields.io/badge/status-Done-green"><a href="https://kofeejan.itch.io/revita-rogue-capstone-project-showcase"><img src="https://img.shields.io/badge/Play_on_Itch-F85A5A"></a> <a href="https://github.com/ssuish/revita-rouge-legacy.git"><img src="https://img.shields.io/badge/Repo_Link-0B6623"></a> |
-| Escape the Chasm | React, Phaser, Typescript, Solidity, Supabase | An NFT game powered by Base and Core blockchain networks built for OJT Final Project. Features gamified player dashboard, web-native platforming game, and ERC 721 (NFT) smart contract management. | <img src="https://img.shields.io/badge/status-Done-green"> |
-<!-- | Dynamic Form | React, TS, NestJS, Firebase | A rework as a personal project based on my internship feature task, a dynamic schema-based form system with intergrated into firebase, contentful CMS, and access controls. | WIP | -->
-
 <details>
 <summary>
   
-# 📊 Github Stats 
+# 📊 Misc
 
 </summary>
 
