@@ -51,7 +51,7 @@ I currently work on enterprise integrations using Boomi, JavaScript, SQL for UKG
  <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2023 - To: 16 February 2026
+From: 28 January 2023 - To: 17 February 2026
 
 Total Time: 215 hrs 38 mins
 
