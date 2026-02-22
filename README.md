@@ -9,7 +9,7 @@ I currently work on enterprise integrations using Boomi, JavaScript, SQL for UKG
 
 ![](https://komarev.com/ghpvc/?username=ssuish&style=flat-square&color=brightgreen)
 
-## 🛠️ Tech Stack & Tools 
+# 🛠️ Tech Stack & Tools 
 - **Languages**
   
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,cs,python" />
