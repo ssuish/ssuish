@@ -5,7 +5,7 @@
 # はじめまして! 👋 
 Enterprise Integration Developer, Illustrator, and Game Developer
 
-I currently work on enterprise integrations using Boomi, JavaScript, SQL for UKG Pro systems and build backend side projects, including game backends, persistence layers, and distributed systems using TypeScript, Python, C#, and AWS.
+I currently work on enterprise integrations using Boomi, JavaScript, Groovy, SQL for UKG Pro systems and build fun side projects, including game backend systems, agentic AI agents, and dev tools using TypeScript, Python, C#, AWS, and GCP.
 
 ![](https://komarev.com/ghpvc/?username=ssuish&style=flat-square&color=brightgreen)
 
