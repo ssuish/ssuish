@@ -53,7 +53,7 @@ I currently work on enterprise integrations using Boomi, JavaScript, Groovy, SQL
  <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2023 - To: 30 March 2026
+From: 28 January 2023 - To: 31 March 2026
 
 Total Time: 227 hrs 13 mins
 
