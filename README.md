@@ -3,7 +3,7 @@
 </div>
 
 # はじめまして! 👋 
-Enterprise Integration Developer, Illustrator, and Game Developer
+Enterprise Integration Developer and Illustrator
 
 I currently work on enterprise integrations using Boomi, JavaScript, Groovy, SQL for UKG Pro systems and build fun side projects, including game backend systems, agentic AI agents, and dev tools using TypeScript, Python, C#, AWS, and GCP.
 
