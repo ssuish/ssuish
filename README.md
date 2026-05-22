@@ -3,68 +3,50 @@
 </div>
 
 # はじめまして! 👋 
-Enterprise Integration Developer and Illustrator
+**Backend & AI Integration Engineer**
 
-I currently work on enterprise integrations using Boomi, JavaScript, Groovy, SQL for UKG Pro systems and build fun side projects, including game backend systems, agentic AI agents, and dev tools using TypeScript, Python, C#, AWS, and GCP.
+I engineer integration pipelines, design serverless APIs, and build deterministic game architectures. Currently focused on optimizing enterprise systems, and building RAG and multi-agent pipelines. 
 
 ![](https://komarev.com/ghpvc/?username=ssuish&style=flat-square&color=brightgreen)
 
-# 🛠️ Tech Stack & Tools 
-- **Languages**
-  
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,cs,python" />
+## 🚀 Featured Projects
 
-- **Frameworks & Libraries**
-  
-  <img src="https://skillicons.dev/icons?i=bootstrap,react,nodejs,nest,yarn,dotnet,firebase,supabase,mysql,postgres" />
-  
-- **Testing**
-  
-  <img src="https://skillicons.dev/icons?i=jest,postman,cypress" />
-  
-- **CI/CD & Cloud**
-  
-  <img src="https://skillicons.dev/icons?i=github,vercel,terraform,gcp,aws" />
-  
-- **Game Development**
-  
-  <img src="https://skillicons.dev/icons?i=unity,godot,threejs" />
- 
-- **Creative Tech & UI/UX:**
-  
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects,blender" />
+### [Multi-Domain Support Triage Agent](#)
+> *Sequential Multi-Agent Architecture with Local RAG*
+* **Tech:** Python, Gemini, ChromaDB, Pydantic, Pandas
+* **Impact:** Engineered a schema-validated triage pipeline that processes support tickets with 96.6% citation grounding based on 6,454 embedded ChromaDB vectors.
 
-<details>
-<summary>
-  
-# 📊 Misc
+### Revita Rogue 
+> *2D Environmental Survival Online Game (Solo Developer & Project Lead)*
+* **Tech:** C#, .NET, Unity
+* **Impact:** Designed a directed acyclic graph (DAG) architecture for deterministic progression and reduced frame drops by 41%. Lead author of a published research paper on the game design (2025).
 
-</summary>
+## 💼 Experience Highlights
+* **Enterprise Tech Firm:** Engineered integration pipelines with custom transformation logic and file-based processing vis SFTP. Strengthened reliability by building error handling and retry mechanisms.
+* **EdTech Startup:** Developed NestJS REST APIs for bulk data processing, reducing GCP Cloud Run resource usage by 42%. Built custom webhooks automating manual workflows by 50%.
+* **Web3 Startup:** Simulated multiplayer on-chain environments using MUD and Foundry, accelerating test cycles for smart contract deployments.
 
-## What I'm doing right now
+## 🛠️ Core Tech Stack 
 
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/1ac5a9c7-6524-4cb4-93e8-403a9f273446/thumbnail" >
-</p>
+- **Backend & Languages**
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,typescript,cs,nodejs,nestjs,fastapi" />
 
+- **Databases & Architecture**
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
 
-## Coding Hours
+- **DevOps & Cloud Infrastructure**
+  <br>
+  <img src="https://skillicons.dev/icons?i=gcp,aws,docker,github" />
 
- <!--START_SECTION:waka-->
+## 📜 Certifications
+* **Google Cloud Associate Cloud Engineer** (2026)
+* **AWS Certified Cloud Practitioner** (2026)
+* **Boomi Professional Integration Developer** (2026)
+* **UKG Pro WFM Integration Developer** (2026)
+* **Certified in Cybersecurity, ISC2** (2024)
 
-```txt
-From: 28 January 2023 - To: 19 May 2026
-
-Total Time: 227 hrs 22 mins
-
-PHP              76 hrs 26 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.13 %
-C#               26 hrs 31 mins        ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.49 %
-Java             21 hrs 41 mins        ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.40 %
-Python           20 hrs 5 mins         ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.71 %
-C++              18 hrs 18 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.93 %
-```
-
-<!--END_SECTION:waka-->
 ---
 
 <div align=center>
