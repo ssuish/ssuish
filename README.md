@@ -2,31 +2,55 @@
  <img src="assets/95219014_p0_cropped.PNG" height="50%" width="100%">
 </div>
 
-# はじめまして! 👋 
-**Backend & AI Integration Engineer**
+# I build backends that hold. 👋
 
-I engineer integration pipelines, design serverless APIs, and build deterministic game architectures. Currently focused on optimizing enterprise systems, and building RAG and multi-agent pipelines. 
+**Backend & Cloud-Native Engineer**
+
+Integration pipelines, serverless APIs, RAG pipelines, multi-agent systems.
+Three industry stints, two cloud certifications, and an IEEE-published game engine paper.
+Looking for full-stack or cloud-native backend roles — entry to junior level.
 
 ![](https://komarev.com/ghpvc/?username=ssuish&style=flat-square&color=brightgreen)
+
+---
 
 ## 🚀 Featured Projects
 
 ### [Multi-Domain Support Triage Agent](#)
 > *Sequential Multi-Agent Architecture with Local RAG*
-* **Tech:** Python, Gemini, ChromaDB, Pydantic, Pandas
-* **Impact:** Engineered a schema-validated triage pipeline that processes support tickets with 96.6% citation grounding based on 6,454 embedded ChromaDB vectors.
 
-### Revita Rogue 
-> *2D Environmental Survival Online Game (Developer, Game Artist, and Project Lead)*
-* **Tech:** C#, .NET, Unity
-* **Impact:** Designed a directed acyclic graph (DAG) architecture for deterministic progression and reduced frame drops by 41%. Lead author of a published research paper on the game design (2025).
+**Tech:** Python, Gemini, ChromaDB, Pydantic, Pandas
 
-## 💼 Experience Highlights
-* **Enterprise Tech Firm:** Engineered integration pipelines with custom transformation logic and file-based processing vis SFTP. Strengthened reliability by building error handling and retry mechanisms.
-* **EdTech Startup:** Developed NestJS REST APIs for bulk data processing, reducing GCP Cloud Run resource usage by 42%. Built custom webhooks automating manual workflows by 50%.
-* **Web3 Startup:** Simulated multiplayer on-chain environments using MUD and Foundry, accelerating test cycles for smart contract deployments.
+Schema-validated triage pipeline routing support tickets across domains using local RAG.
+96.6% citation grounding across 6,454 embedded vectors. Built for auditability, not just accuracy.
 
-## 🛠️ Core Tech Stack 
+### [Revita Rogue](#)
+> *2D Environmental Survival Online Game — Developer, Artist, and Project Lead*
+
+**Tech:** C#, .NET, Unity
+
+DAG-based deterministic progression system with a 41% reduction in frame drops.
+Research published in IEEE (2025).
+
+---
+
+## 💼 Experience
+
+**Enterprise Tech Firm**
+Engineered integration pipelines with custom transformation logic and SFTP-based file processing.
+Built error handling and retry mechanisms that meaningfully improved system reliability.
+
+**EdTech Startup**
+Built NestJS REST APIs for bulk data processing, cutting GCP Cloud Run resource usage by 42%.
+Automated manual workflows by 50% through custom webhooks.
+
+**Web3 Startup**
+Simulated multiplayer on-chain environments using MUD and Foundry to accelerate smart contract
+test cycles.
+
+---
+
+## 🛠️ Stack
 
 - **Backend & Languages**
   <br>
@@ -36,20 +60,18 @@ I engineer integration pipelines, design serverless APIs, and build deterministi
   <br>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
 
-- **DevOps & Cloud Infrastructure**
+- **DevOps & Cloud**
   <br>
   <img src="https://skillicons.dev/icons?i=gcp,aws,docker,github" />
 
-## 📜 Certifications
-* **Google Cloud Associate Cloud Engineer** (2026)
-* **AWS Certified Cloud Practitioner** (2026)
-* **Boomi Professional Integration Developer** (2026)
-* **UKG Pro WFM Integration Developer** (2026)
-* **Certified in Cybersecurity, ISC2** (2024)
-
 ---
 
-<div align=center>
- <br>
- <img src="assets/nijika-ijichi-ijichi-nijika.gif" height="50%" width="100%">
-</div>
+## 📜 Certifications
+
+| Certification | Year |
+|---|---|
+| Google Cloud Associate Cloud Engineer | 2026 |
+| AWS Certified Cloud Practitioner | 2026 |
+| Boomi Professional Integration Developer | 2026 |
+| UKG Pro WFM Integration Developer | 2026 |
+| Certified in Cybersecurity, ISC2 | 2024 |
