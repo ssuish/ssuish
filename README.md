@@ -17,7 +17,7 @@ I engineer integration pipelines, design serverless APIs, and build deterministi
 * **Impact:** Engineered a schema-validated triage pipeline that processes support tickets with 96.6% citation grounding based on 6,454 embedded ChromaDB vectors.
 
 ### Revita Rogue 
-> *2D Environmental Survival Online Game (Solo Developer & Project Lead)*
+> *2D Environmental Survival Online Game (Developer, Game Artist, and Project Lead)*
 * **Tech:** C#, .NET, Unity
 * **Impact:** Designed a directed acyclic graph (DAG) architecture for deterministic progression and reduced frame drops by 41%. Lead author of a published research paper on the game design (2025).
 
