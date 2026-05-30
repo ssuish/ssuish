@@ -19,7 +19,7 @@ jobs:
           ### meta
           API_BASE_URL: https://wakatime.com/api # optional
           ### content
-          SHOW_TITLE: true # optional
+          SHOW_TITLE: false # hidden inside collapsible section
           SECTION_NAME: waka # optional
           TIME_RANGE: all_time # optional
           SHOW_TIME: true # optional
