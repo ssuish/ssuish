@@ -4,19 +4,17 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&width=600&lines=I+build+backends+that+hold.;Cloud-Native+%7C+AI+Agents+%7C+Integrations;Backend+%26+Cloud-Native+Engineer)](https://git.io/typing-svg)
-
 **Backend & Cloud-Native Engineer**
 
-Integration pipelines, serverless APIs, RAG pipelines, multi-agent systems.
-Three industry stints, two cloud certifications, and an IEEE-published game engine paper.
-Looking for full-stack or cloud-native backend roles — entry to junior level.
+I build and scale integration pipelines, serverless APIs, RAG pipelines, multi-agent systems, and games.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssuish)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssuish)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssuish@users.noreply.github.com)
 
 ![](https://komarev.com/ghpvc/?username=ssuish&style=flat-square&color=brightgreen)
 
 </div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -53,8 +51,6 @@ Online survival game with deterministic progression and performance-focused syst
 </tr>
 </table>
 
----
-
 ## 💼 Experience
 
 <table>
@@ -87,8 +83,6 @@ Simulated multiplayer on-chain environments using MUD and Foundry to accelerate 
 </tr>
 </table>
 
----
-
 ## 🛠️ Stack
 
 <div align="center">
@@ -115,8 +109,6 @@ Simulated multiplayer on-chain environments using MUD and Foundry to accelerate 
 
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -131,19 +123,7 @@ Simulated multiplayer on-chain environments using MUD and Foundry to accelerate 
 
 </div>
 
----
-
 ## 📜 Certifications
-
-<div align="center">
-
-![GCP ACE](https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS CCP](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Boomi Pro](https://img.shields.io/badge/Boomi-Professional%20Integration%20Developer-003366?style=for-the-badge)
-![UKG WFM](https://img.shields.io/badge/UKG-Pro%20WFM%20Integration%20Developer-005CB9?style=for-the-badge)
-![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-007CBA?style=for-the-badge&logo=isc2&logoColor=white)
-
-</div>
 
 <br>
 
@@ -164,15 +144,4 @@ Simulated multiplayer on-chain environments using MUD and Foundry to accelerate 
 <!--END_SECTION:waka-->
 
 </details>
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssuish)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssuish)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssuish@users.noreply.github.com)
-
 </div>
