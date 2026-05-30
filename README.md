@@ -112,14 +112,8 @@ Simulated multiplayer on-chain environments using MUD and Foundry to accelerate 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ssuish&theme=algolia&no-frame=true&row=1&column=6" />
-
-<br><br>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ssuish&show_icons=true&theme=github_dark&hide_border=true" />
+  
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ssuish&theme=github-dark-blue&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssuish&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
