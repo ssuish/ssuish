@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="assets/95219014_p0_cropped.PNG" width="100%" alt="Profile banner" />
+  <img src="assets/awa.jpg" width="70%" alt="Profile banner" />
 </div>
-
+<br>
 <div align="center">
 
 **Backend & Cloud-Native Engineer**
@@ -118,9 +118,6 @@ Simulated multiplayer on-chain environments using MUD and Foundry to accelerate 
 </div>
 
 ## 📜 Certifications
-
-<br>
-
 | Certification | Year |
 |---|---|
 | <img src="https://skillicons.dev/icons?i=gcp" height="18" alt="Google Cloud" /> Google Cloud Associate Cloud Engineer | 2026 |
@@ -128,7 +125,6 @@ Simulated multiplayer on-chain environments using MUD and Foundry to accelerate 
 | Boomi Professional Integration Developer | 2026 |
 | UKG Pro WFM Integration Developer | 2026 |
 | <img src="https://cdn.simpleicons.org/isc2/007CBA" height="18" width="18" alt="ISC2" /> Certified in Cybersecurity, ISC2 | 2024 |
-
 ---
 
 <details>
