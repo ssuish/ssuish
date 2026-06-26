@@ -9,7 +9,7 @@
 
 **I build backends that scale.**
 
-Python · TypeScript · FastAPI · GCP — production-ready systems, with AI integration as the differentiator.
+Python · TypeScript · FastAPI · GCP — production-ready systems with AI integration.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssuish)
