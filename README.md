@@ -7,7 +7,7 @@
 
 # Backend & Cloud Engineer
 
-**I build backends that hold.**
+**I build backends that scale.**
 
 Python · TypeScript · FastAPI · GCP — production-ready systems, with AI integration as the differentiator.
 
