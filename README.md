@@ -12,7 +12,7 @@
 Production backends, AI agents, and integration pipelines — Python · TypeScript · FastAPI · GCP.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssuish)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssuish)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://kofeejan.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@kofeejan.com)
 
 ![](https://komarev.com/ghpvc/?username=ssuish&style=flat-square&color=brightgreen)
@@ -25,7 +25,7 @@ Production backends, AI agents, and integration pipelines — Python · TypeScri
 
 - **Building:** [Triage](https://github.com/ssuish/ecom-triage-saas) — AI-assisted support ticketing (FastAPI · Gemini · React · Cloud Run)
 - **Shipping:** [Service-void / walkability pipeline](https://github.com/ssuish/dep-data-engineering-ssuish) with OSM data (Data Engineering Builder Cohort / DEP)
-- **Certified:** GCP Associate Cloud Engineer, AWS CCP, Boomi, UKG WFM, ISC2 CC
+- **Certified:** GCP ACE · AWS CCP · UKG Pro WFM · Boomi · ISC2 CC
 - **Open to:** remote backend / cloud / AI-platform roles; collaborators on agentic and spatial/data systems
 
 ---
@@ -37,6 +37,7 @@ Production backends, AI agents, and integration pipelines — Python · TypeScri
 <td width="50%" valign="top">
 
 ### [Triage](https://github.com/ssuish/ecom-triage-saas)
+>
 > *AI-assisted support ticketing for small teams*
 
 **Tech:** FastAPI · Gemini · React · Clerk · Neon · Cloud Run
@@ -51,15 +52,16 @@ Intake → async AI triage → operator console → email-backed resolution — 
 <td width="50%" valign="top">
 
 ### [Multi-Domain Support Triage Agent](https://github.com/ssuish/multi-domain-support-triage-agent)
-> *Sequential multi-agent architecture with local RAG*
+>
+> *Sequential multi-agent system with local RAG — Solo*
 
-**Tech:** Python · Gemini · ADK · ChromaDB · Pydantic
+**Tech:** Python · Gemini · Google ADK · ChromaDB · Sentence Transformers · Pydantic
 
-Schema-validated batch triage over a grounded help-center corpus (HackerRank Orchestrate entry).
+Domain-scoped RAG pipeline for staged reasoning across isolated knowledge domains without cross-contamination.
 
-- Embedded **6,454 vectors** for grounded retrieval
-- Reached **96.6% citation grounding**
-- Retrieval confidence gate + auditable agent handoff
+- Chunked **774** knowledge articles into **6,454** ChromaDB vectors (on-prem / no cloud dependency)
+- Processed **29** consecutive pilot tickets at **96.6%** citation grounding
+- Pydantic schema validation anchors every response to retrieved sources
 
 </td>
 </tr>
@@ -67,29 +69,31 @@ Schema-validated batch triage over a grounded help-center corpus (HackerRank Orc
 <td width="50%" valign="top">
 
 ### [Mapping Service Voids](https://github.com/ssuish/dep-data-engineering-ssuish)
+>
 > *Walkability & spatial accessibility with OSM data*
 
 **Tech:** Python · OSM / Overpass · spatial analysis · HTML dashboard
 
-End-to-end pipeline measuring **Network Service Void %** for Barangay Bahay Toro — streets outside walking access to both schools and health centers.
+End-to-end pipeline measuring **Network Service Void %** — street segments outside walking access to both schools and health centers.
 
 - Building footprints as a population proxy
-- Primary access tier at **561.5 m** (Metro Manila walking percentile)
+- Primary access tier at **561.5 m** (regional walking-distance percentile)
 - Built for local planners and DEP cohort collaborators
 
 </td>
 <td width="50%" valign="top">
 
 ### [Revita Rogue](https://github.com/ssuish/revita-rouge-legacy)
-> *2D environmental survival game — lead developer & artist*
+>
+> *2D environmental survival online game — lead developer & artist*
 
-**Tech:** C# · .NET · Unity
+**Tech:** C# · .NET · IL2CPP · Unity
 
-Online survival game with deterministic progression and performance-focused systems.
+Modular game architecture with deterministic progression and performance-focused systems.
 
-- Designed **DAG-based deterministic progression**
-- Reduced frame drops by **41%**
-- Related research published in **IEEE, 2025** · [Play on itch.io](https://kofeejan.itch.io/revita-rogue-capstone-project-showcase)
+- **DAG** dependency model across **6+** subsystems for valid quest state transitions
+- Reduced frame drops by **41%**; contributed to a **60%** increase in player retention
+- Lead author on research presented at the **2025 4th International Conference on Digital Transformation and Applications**, Semarang, Indonesia · [Play on itch.io](https://kofeejan.itch.io/revita-rogue-capstone-project-showcase)
 
 </td>
 </tr>
@@ -99,9 +103,9 @@ Online survival game with deterministic progression and performance-focused syst
 
 ## Experience
 
-| **Integration Developer**<br>Enterprise Tech Firm | **Backend Intern**<br>EdTech Startup | **Frontend Intern**<br>Web3 Startup |
+| **Integration Developer**<br>Enterprise Tech Firm<br>*Oct 2025 – Present* | **Product Engineer Intern**<br>EdTech Startup<br>*Jan – Jun 2025* | **Full Stack Engineer Intern**<br>Web3 Startup<br>*Feb – May 2025* |
 |---|---|---|
-| • Engineered integration pipelines with custom transformation logic and SFTP-based file processing<br>• Built error handling and retry mechanisms that improved reliability in production data flows | • Built NestJS REST APIs for bulk data processing, cutting GCP Cloud Run resource usage by **42%**<br>• Automated manual workflows by **50%** through custom webhooks | • Simulated multiplayer on-chain environments using MUD and Foundry to accelerate smart contract test cycles |
+| • Built **12+** integration pipelines for large-volume CSV flows — SFTP extract, transform, document cache/cross-reference, and load into enterprise HR systems<br>• Authored API docs and integration workbooks for **6+** HR endpoints with full success/error schemas via reverse-engineered live API behavior<br>• Added error handling, retries, and validation workflows to cut manual intervention on file-based runs | • Consolidated per-record Cloud Run calls into bulk-update APIs, cutting costs and call volume by **42%**<br>• Event-driven webhooks to Firebase and Sheets eliminated **50%** of manual enrollment processing<br>• Jest suite for critical enrollment services at **90%** coverage; established a team testing baseline | • Shipped **3** production React apps with real-time state sync, wallet auth, and event-driven UI updates across live contract state changes |
 
 ---
 
@@ -109,23 +113,28 @@ Online survival game with deterministic progression and performance-focused syst
 
 <div align="center">
 
-**Backend & Languages**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=python,typescript,cs,nodejs,nestjs,fastapi" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,cs" />
 
-**Databases & Architecture**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind" />
 
-**DevOps & Cloud**
+**Backend**
 
-<img src="https://skillicons.dev/icons?i=gcp,aws,docker,github" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,postgres,mysql,firebase" />
 
-**AI & Agents**
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=gcp,aws,cloudflare,docker,github" />
+
+**AI, Agents & Integration**
 
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![ADK](https://img.shields.io/badge/Google%20ADK-34A853?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=chromadb&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-58A6FF?style=for-the-badge)
 ![Boomi](https://img.shields.io/badge/Boomi-003366?style=for-the-badge&logo=boomi&logoColor=white)
 
@@ -151,9 +160,18 @@ Online survival game with deterministic progression and performance-focused syst
 |---|---|
 | <img src="https://skillicons.dev/icons?i=gcp" height="18" alt="Google Cloud" /> Google Cloud Associate Cloud Engineer | 2026 |
 | <img src="https://skillicons.dev/icons?i=aws" height="18" alt="AWS" /> AWS Certified Cloud Practitioner | 2026 |
-| Boomi Professional Integration Developer | 2026 |
 | UKG Pro WFM Integration Developer | 2026 |
+| Boomi Professional Integration Developer | 2026 |
 | <img src="https://cdn.simpleicons.org/isc2/007CBA" height="18" width="18" alt="ISC2" /> Certified in Cybersecurity, ISC2 | 2024 |
+
+---
+
+## Education
+
+**B.S. Information Technology** — *2025*
+
+- Graduated with highest honors; national science scholarship awardee
+- National IT quiz and game-innovation convention finalist
 
 ---
 
