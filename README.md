@@ -9,9 +9,9 @@
 
 **I build backends that scale.**
 
-Python · TypeScript · FastAPI · GCP — production-ready systems with AI integration.
+Production backends, AI agents, and integration pipelines — Python · TypeScript · FastAPI · GCP.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssuish)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssuish)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@kofeejan.com)
 
@@ -21,57 +21,91 @@ Python · TypeScript · FastAPI · GCP — production-ready systems with AI inte
 
 ---
 
-### 🧭 At a Glance
+### At a Glance
 
-- 🔭 **Building:** Triage — an AI-assisted support ticketing platform (FastAPI · Gemini)
-- 🌱 **Learning:** service-void & walkability mapping with OSM data, as part of a Data Engineering Builder Cohort
-- ☁️ **Certified:** GCP Associate Cloud Engineer — focused on GCP-native backend + AI integration work
-- 📫 **Open to:** remote backend / cloud engineering roles
+- **Building:** [Triage](https://github.com/ssuish/ecom-triage-saas) — AI-assisted support ticketing (FastAPI · Gemini · React · Cloud Run)
+- **Shipping:** [Service-void / walkability pipeline](https://github.com/ssuish/dep-data-engineering-ssuish) with OSM data (Data Engineering Builder Cohort / DEP)
+- **Certified:** GCP Associate Cloud Engineer, AWS CCP, Boomi, UKG WFM, ISC2 CC
+- **Open to:** remote backend / cloud / AI-platform roles; collaborators on agentic and spatial/data systems
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Multi-Domain Support Triage Agent](#)
-> *Sequential Multi-Agent Architecture with Local RAG*
+### [Triage](https://github.com/ssuish/ecom-triage-saas)
+> *AI-assisted support ticketing for small teams*
 
-**Tech:** Python · Gemini · ChromaDB · Pydantic · Pandas
+**Tech:** FastAPI · Gemini · React · Clerk · Neon · Cloud Run
 
-Schema-validated triage pipeline routing support tickets across domains using local RAG.
+Intake → async AI triage → operator console → email-backed resolution — without a heavy helpdesk.
 
-- Embedded **6,454 vectors** for grounded retrieval
-- Reached **96.6% citation grounding**
-- Built for auditability, traceability, and reliable agent handoff
+- Structured Gemini triage (category, priority, escalation, draft reply)
+- ~**57** pytest + ~**46** Vitest tests covering backend and frontend
+- Designed for GCP free tiers and serverless async workers
 
 </td>
 <td width="50%" valign="top">
 
-### [Revita Rogue](#)
-> *2D Environmental Survival Online Game — Developer, Artist, and Project Lead*
+### [Multi-Domain Support Triage Agent](https://github.com/ssuish/multi-domain-support-triage-agent)
+> *Sequential multi-agent architecture with local RAG*
+
+**Tech:** Python · Gemini · ADK · ChromaDB · Pydantic
+
+Schema-validated batch triage over a grounded help-center corpus (HackerRank Orchestrate entry).
+
+- Embedded **6,454 vectors** for grounded retrieval
+- Reached **96.6% citation grounding**
+- Retrieval confidence gate + auditable agent handoff
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Mapping Service Voids](https://github.com/ssuish/dep-data-engineering-ssuish)
+> *Walkability & spatial accessibility with OSM data*
+
+**Tech:** Python · OSM / Overpass · spatial analysis · HTML dashboard
+
+End-to-end pipeline measuring **Network Service Void %** for Barangay Bahay Toro — streets outside walking access to both schools and health centers.
+
+- Building footprints as a population proxy
+- Primary access tier at **561.5 m** (Metro Manila walking percentile)
+- Built for local planners and DEP cohort collaborators
+
+</td>
+<td width="50%" valign="top">
+
+### [Revita Rogue](https://github.com/ssuish/revita-rouge-legacy)
+> *2D environmental survival game — lead developer & artist*
 
 **Tech:** C# · .NET · Unity
 
 Online survival game with deterministic progression and performance-focused systems.
 
-- Designed **DAG-based deterministic progression** system
+- Designed **DAG-based deterministic progression**
 - Reduced frame drops by **41%**
-- Published related research in **IEEE, 2025**
+- Related research published in **IEEE, 2025** · [Play on itch.io](https://kofeejan.itch.io/revita-rogue-capstone-project-showcase)
 
 </td>
 </tr>
 </table>
 
-## 💼 Experience
+---
+
+## Experience
 
 | **Integration Developer**<br>Enterprise Tech Firm | **Backend Intern**<br>EdTech Startup | **Frontend Intern**<br>Web3 Startup |
 |---|---|---|
-| • Engineered integration pipelines with custom transformation logic and SFTP-based file processing<br>• Built error handling and retry mechanisms that improved system reliability in production data flows | • Built NestJS REST APIs for bulk data processing, cutting GCP Cloud Run resource usage by **42%**<br>• Automated manual workflows by **50%** through custom webhooks | • Simulated multiplayer on-chain environments using MUD and Foundry to accelerate smart contract test cycles |
+| • Engineered integration pipelines with custom transformation logic and SFTP-based file processing<br>• Built error handling and retry mechanisms that improved reliability in production data flows | • Built NestJS REST APIs for bulk data processing, cutting GCP Cloud Run resource usage by **42%**<br>• Automated manual workflows by **50%** through custom webhooks | • Simulated multiplayer on-chain environments using MUD and Foundry to accelerate smart contract test cycles |
 
-## 🛠️ Stack
+---
+
+## Stack
 
 <div align="center">
 
@@ -97,7 +131,21 @@ Online survival game with deterministic progression and performance-focused syst
 
 </div>
 
-## 📜 Certifications
+---
+
+## Certifications
+
+<div align="center">
+
+![GCP ACE](https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS CCP](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Boomi Pro](https://img.shields.io/badge/Boomi-Professional%20Integration%20Developer-003366?style=for-the-badge)
+![UKG WFM](https://img.shields.io/badge/UKG-Pro%20WFM%20Integration%20Developer-005CB9?style=for-the-badge)
+![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-007CBA?style=for-the-badge&logo=isc2&logoColor=white)
+
+</div>
+
+<br>
 
 | Certification | Year |
 |---|---|
@@ -107,7 +155,9 @@ Online survival game with deterministic progression and performance-focused syst
 | UKG Pro WFM Integration Developer | 2026 |
 | <img src="https://cdn.simpleicons.org/isc2/007CBA" height="18" width="18" alt="ISC2" /> Certified in Cybersecurity, ISC2 | 2024 |
 
-## 📊 GitHub Stats
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -116,7 +166,7 @@ Online survival game with deterministic progression and performance-focused syst
 </div>
 
 <details>
-<summary>⌨️ Coding activity</summary>
+<summary>Coding activity</summary>
 
 <!--START_SECTION:waka-->
 
