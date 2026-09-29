@@ -1,56 +1,37 @@
 <div align="center">
-  <img src="assets/awa.jpg" width="70%" alt="Profile banner" />
-</div>
-<br>
+  <img src="assets/awa.jpg" width="70%" alt="Awa anime banner" />
 
-<div align="center">
+  # Full-Stack Product Engineer
 
-# Backend & Cloud Engineer
+  **I turn fuzzy ideas exists and make stubborn systems cooperate.**
 
-**I build backends that scale.**
+  Full-stack product work with TypeScript · Python · React · FastAPI · GCP.
 
-Production backends, AI agents, and integration pipelines — Python · TypeScript · FastAPI · GCP.
+  <p>
+    <a href="https://kofeejan.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:hello@kofeejan.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssuish)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://kofeejan.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@kofeejan.com)
-
-![](https://komarev.com/ghpvc/?username=ssuish&style=flat-square&color=brightgreen)
-
+  <img src="https://komarev.com/ghpvc/?username=ssuish&style=flat-square&color=brightgreen" alt="Profile views" />
 </div>
 
-## Stack
+## A little about me
 
-<div align="center">
+I’m a product-minded engineer who likes being close to the whole thing. I enjoy taking a rough idea and turning it into a clear interface, a dependable API, and infrastructure that does not need babysitting.
 
-**Languages**
+Most of my depth is in backend systems, cloud architecture, AI agents, and integration work. That’s where I’m strongest, but I care just as much about why we’re building: useful software, sensible defaults, and experiences that feel good to use.
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,cs" />
+I like clean interfaces, useful automation, and making complicated work feel boring—in the best way.
 
-**Frontend**
+## Things I like building with
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,postgres,mysql,firebase" />
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=gcp,aws,cloudflare,docker,github" />
-
-**AI, Agents & Integration**
-
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![ADK](https://img.shields.io/badge/Google%20ADK-34A853?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=chromadb&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-58A6FF?style=for-the-badge)
-![Boomi](https://img.shields.io/badge/Boomi-003366?style=for-the-badge&logo=boomi&logoColor=white)
-
-</div>
-
----
+| Area | Tools |
+| --- | --- |
+| **Languages** | JavaScript · TypeScript · Python · C# |
+| **Frontend** | React · Next.js · Astro · Tailwind CSS |
+| **Backend** | Node.js · NestJS · FastAPI · PostgreSQL · MySQL · Firebase |
+| **Cloud & DevOps** | Google Cloud · AWS · Cloudflare · Docker · GitHub |
+| **AI, agents & integration** | Gemini · Vertex AI · Google ADK · ChromaDB · RAG · Boomi |
 
 ## Certifications
 
@@ -64,37 +45,29 @@ Production backends, AI agents, and integration pipelines — Python · TypeScri
 
 </div>
 
-<br>
-
 | Certification | Year |
-|---|---|
-| <img src="https://skillicons.dev/icons?i=gcp" height="18" alt="Google Cloud" /> Google Cloud Associate Cloud Engineer | 2026 |
-| <img src="https://skillicons.dev/icons?i=aws" height="18" alt="AWS" /> AWS Certified Cloud Practitioner | 2026 |
+| --- | ---: |
+| Google Cloud Associate Cloud Engineer | 2026 |
+| AWS Certified Cloud Practitioner | 2026 |
 | UKG Pro WFM Integration Developer | 2026 |
 | Boomi Professional Integration Developer | 2026 |
-| <img src="https://cdn.simpleicons.org/isc2/007CBA" height="18" width="18" alt="ISC2" /> Certified in Cybersecurity, ISC2 | 2024 |
-
----
+| Certified in Cybersecurity, ISC2 | 2024 |
 
 ## Education
 
-**B.S. Information Technology** — *2025*
+**B.S. Information Technology** · 2025
 
-- Graduated with highest honors; national science scholarship awardee
-- National IT quiz and game-innovation convention finalist
+- Graduated with highest honors and received a national science scholarship.
+- Finalist at a national IT quiz and game-innovation convention.
 
----
-
-## GitHub Stats
+## GitHub activity
 
 <div align="center">
-
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ssuish&theme=github-dark-blue&hide_border=true" />
-
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ssuish&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
 <details>
-<summary>Coding activity</summary>
+  <summary>Recent coding activity</summary>
 
 <!--START_SECTION:waka-->
 
@@ -102,20 +75,20 @@ Production backends, AI agents, and integration pipelines — Python · TypeScri
 Total Time: 281 hrs 29 mins
 
 PHP              76 hrs 26 mins        ⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.09 %
-Markdown         30 hrs 57 mins        ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.57 %
-C#               26 hrs 33 mins        ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.07 %
-Python           25 hrs 20 mins        ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.65 %
-TypeScript       23 hrs                ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.86 %
+Markdown         30 hrs 57 mins        ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.57 %
+C#               26 hrs 33 mins        ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.07 %
+Python           25 hrs 20 mins        ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.65 %
+TypeScript       23 hrs                ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.86 %
 ```
 
 <!--END_SECTION:waka-->
 
 </details>
 
----
-
 <div align="center">
 
-Let's build something — <a href="mailto:hello@kofeejan.com">reach out</a>.
+### Let's build something.
+
+<a href="mailto:hello@kofeejan.com">Reach out</a> · <a href="https://kofeejan.com">See my portfolio</a>
 
 </div>
