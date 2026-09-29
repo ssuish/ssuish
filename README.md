@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/awa.jpg" width="70%" alt="Awa anime banner" />
 
-  # Full-Stack Product Engineer
+  # ╰(*°▽°*)╯
 
   **I turn fuzzy ideas exists and make stubborn systems cooperate.**
 
@@ -17,7 +17,7 @@
 
 ## A little about me
 
-I’m a product-minded engineer who likes being close to the whole thing. I enjoy taking a rough idea and turning it into a clear interface, a dependable API, and infrastructure that does not need babysitting.
+I’m a product-minded software engineer who likes being close to the whole thing. I enjoy taking a rough idea and turning it into a clear interface, a dependable API, and infrastructure that does not need babysitting.
 
 Most of my depth is in backend systems, cloud architecture, AI agents, and integration work. That’s where I’m strongest, but I care just as much about why we’re building: useful software, sensible defaults, and experiences that feel good to use.
 
