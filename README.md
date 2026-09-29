@@ -35,15 +35,11 @@ I like clean interfaces, useful automation, and making complicated work feel bor
 
 ## Certifications
 
-<div align="center">
-
 ![GCP ACE](https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS CCP](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Boomi Pro](https://img.shields.io/badge/Boomi-Professional%20Integration%20Developer-003366?style=for-the-badge)
 ![UKG WFM](https://img.shields.io/badge/UKG-Pro%20WFM%20Integration%20Developer-005CB9?style=for-the-badge)
 ![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-007CBA?style=for-the-badge&logo=isc2&logoColor=white)
-
-</div>
 
 | Certification | Year |
 | --- | ---: |
